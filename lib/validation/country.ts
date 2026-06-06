@@ -96,7 +96,7 @@ export const CountryPoliticalProfileSchema = z.object({
   englishName: z.string().min(1),
   flagEmoji: z.string().min(1),
   flagSvgUrl: z.string().url().optional(),
-  region: z.enum(["Africa", "Americas", "Asia", "Europe", "Oceania", "Antarctic", "Unknown"]),
+  region: z.enum(["Africa", "Americas", "Asia", "Europe", "Europe - Asia", "Oceania", "Antarctic", "Unknown"]),
   subregion: z.string().optional(),
   capital: z.string().optional(),
   population: z.number().nonnegative().optional(),
@@ -121,6 +121,7 @@ export const CountryPoliticalProfileSchema = z.object({
       "Electoral democracy",
       "Electoral autocracy",
       "Closed autocracy",
+      "Hybrid regime",
       "Unknown"
     ])
     .optional(),

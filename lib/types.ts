@@ -3,6 +3,7 @@ export type Region =
   | "Americas"
   | "Asia"
   | "Europe"
+  | "Europe - Asia"
   | "Oceania"
   | "Antarctic"
   | "Unknown";
@@ -12,6 +13,7 @@ export type RegimeCategory =
   | "Electoral democracy"
   | "Electoral autocracy"
   | "Closed autocracy"
+  | "Hybrid regime"
   | "Unknown";
 
 export type ConfidenceLevel = "high" | "medium" | "low" | "unknown";

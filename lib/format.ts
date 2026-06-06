@@ -5,6 +5,7 @@ export const regimeColorClasses: Record<string, string> = {
   "Electoral democracy": "border-yellow-300/40 bg-yellow-400/15 text-yellow-100",
   "Electoral autocracy": "border-orange-400/40 bg-orange-500/15 text-orange-100",
   "Closed autocracy": "border-red-400/40 bg-red-500/15 text-red-100",
+  "Hybrid regime": "border-amber-300/40 bg-amber-400/15 text-amber-100",
   Unknown: "border-slate-400/30 bg-slate-500/15 text-slate-100"
 };
 

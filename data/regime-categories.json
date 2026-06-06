@@ -28,6 +28,13 @@
     "description": "Không có bầu cử cạnh tranh thực chất ở cấp quốc gia hoặc quyền lực tập trung rất cao."
   },
   {
+    "id": "hybrid-regime",
+    "label": "Hybrid regime",
+    "labelVi": "Chế độ hỗn hợp",
+    "color": "#a16207",
+    "description": "Pha trộn giữa yếu tố dân chủ và chuyên chế — có bầu cử và đa đảng nhưng kiểm soát quyền lực không đầy đủ, tự do dân sự hạn chế."
+  },
+  {
     "id": "unknown",
     "label": "Unknown",
     "labelVi": "Chưa xác định",

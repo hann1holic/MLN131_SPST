@@ -1,13 +1,13 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useRef, useState, type PointerEvent, type WheelEvent } from "react";
+import { useEffect, useMemo, useRef, useState, type PointerEvent } from "react";
 import { ExternalLink, LocateFixed, Minus, MousePointerClick, Move, Plus, RotateCcw } from "lucide-react";
 import { geoNaturalEarth1, geoPath } from "d3-geo";
 import { feature } from "topojson-client";
 import worldAtlas from "world-atlas/countries-110m.json";
 
-import { RegimeBadge } from "@/components/ui/badges";
+import { ConfidenceBadge, RegimeBadge } from "@/components/ui/badges";
 import { FlagBadge } from "@/components/ui/flag-badge";
 import { formatNumber } from "@/lib/format";
 import { displayCountryName, displayRegion, displayValue } from "@/lib/i18n";
@@ -45,6 +45,7 @@ const regimeFill: Record<RegimeCategory, string> = {
   "Electoral democracy": "#eab308",
   "Electoral autocracy": "#f97316",
   "Closed autocracy": "#ef4444",
+  "Hybrid regime": "#a16207",
   Unknown: "#334155"
 };
 
@@ -89,6 +90,7 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
   const [transform, setTransform] = useState<Transform>({ scale: 1, x: 0, y: 0 });
   const [isPanning, setIsPanning] = useState(false);
   const dragStartRef = useRef<{ x: number; y: number; transform: Transform } | null>(null);
+  const svgRef = useRef<SVGSVGElement>(null);
 
   const activeCountry =
     (activeIso3 ? countriesByIso3.get(activeIso3) : undefined) ?? mapFeatures.find((item) => item.country)?.country;
@@ -110,16 +112,22 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
     setTransform({ scale: 1, x: 0, y: 0 });
   }
 
-  function handleWheel(event: WheelEvent<SVGSVGElement>) {
-    event.preventDefault();
-    const rect = event.currentTarget.getBoundingClientRect();
-    const anchor = {
-      x: ((event.clientX - rect.left) / rect.width) * MAP_WIDTH,
-      y: ((event.clientY - rect.top) / rect.height) * MAP_HEIGHT
+  useEffect(() => {
+    const el = svgRef.current;
+    if (!el) return;
+    const listener = (event: globalThis.WheelEvent) => {
+      event.preventDefault();
+      const rect = el.getBoundingClientRect();
+      const anchor = {
+        x: ((event.clientX - rect.left) / rect.width) * MAP_WIDTH,
+        y: ((event.clientY - rect.top) / rect.height) * MAP_HEIGHT
+      };
+      const direction = event.deltaY > 0 ? -0.35 : 0.35;
+      zoomBy(direction, anchor);
     };
-    const direction = event.deltaY > 0 ? -0.35 : 0.35;
-    zoomBy(direction, anchor);
-  }
+    el.addEventListener("wheel", listener as EventListener, { passive: false });
+    return () => el.removeEventListener("wheel", listener as EventListener);
+  }, []);
 
   function handlePointerDown(event: PointerEvent<SVGSVGElement>) {
     event.currentTarget.setPointerCapture(event.pointerId);
@@ -182,11 +190,11 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
           </div>
 
           <svg
+            ref={svgRef}
             className={cn("h-[560px] w-full select-none", isPanning ? "cursor-grabbing" : "cursor-grab")}
             viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
             role="img"
             aria-label="Bản đồ thế giới phân tách theo quốc gia"
-            onWheel={handleWheel}
             onPointerDown={handlePointerDown}
             onPointerMove={handlePointerMove}
             onPointerUp={handlePointerUp}
@@ -264,6 +272,7 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
 
               <div className="flex flex-wrap gap-2">
                 <RegimeBadge value={activeCountry.regimeCategory} />
+                <ConfidenceBadge value={activeCountry.confidenceLevel} />
                 <span className="inline-flex min-h-7 items-center rounded-md border border-slate-600 bg-slate-950 px-2.5 py-1 text-xs text-slate-300">
                   Zoom: {Math.round(transform.scale * 100)}%
                 </span>
