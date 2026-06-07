@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { streamText } from "ai";
-import { google } from "@ai-sdk/google";
+import { openai } from "@ai-sdk/openai";
 
 import { ATLAS_SYSTEM_PROMPT } from "@/lib/ai/system-prompt";
 import { atlasTools } from "@/lib/ai/tools";
@@ -35,32 +35,49 @@ export async function POST(req: NextRequest) {
   }
 
   const { messages, contextCountry } = await req.json();
+  console.log('🤖 Chatbot API called:', { messagesCount: messages?.length, contextCountry });
 
   if (!messages || !messages.length) {
     return NextResponse.json({ error: "Vui lòng gửi ít nhất một tin nhắn." }, { status: 400 });
   }
 
   try {
-    const apiKey = process.env.GEMINI_API_KEY;
+    const apiKey = process.env.OPENAI_API_KEY;
+    console.log('🔑 API Key check:', apiKey ? 'Có API key' : 'Không có API key');
     if (!apiKey) {
-      return NextResponse.json({ 
-        text: "Atlas AI chưa sẵn sàng. Hãy cung cấp khóa Gemini để bật phần trò chuyện thông minh."
+      console.log('❌ Không tìm thấy OPENAI_API_KEY');
+      return NextResponse.json({
+        text: "Atlas AI chưa sẵn sàng. Hãy cung cấp khóa OpenAI để bật phần trò chuyện thông minh."
       });
     }
 
-    const systemPrompt = contextCountry 
+    const systemPrompt = contextCountry
       ? `${ATLAS_SYSTEM_PROMPT}\n\nNgữ cảnh hiện tại: Người dùng đang xem thông tin về quốc gia: ${contextCountry}.`
       : ATLAS_SYSTEM_PROMPT;
 
-    const result = streamText({
-      model: google("gemini-2.5-flash"),
+    // Transform messages từ format { parts: [] } sang { content: string }
+    const transformedMessages = messages.map((msg: any) => ({
+      role: msg.role,
+      content: msg.parts
+        ? msg.parts.map((p: any) => p.text).join('\n')
+        : msg.text || ''
+    }));
+
+    console.log('📨 Transformed messages:', transformedMessages);
+
+    const result = await streamText({
+      model: openai("gpt-4o-mini"),
       system: systemPrompt,
-      messages,
-      tools: atlasTools,
+      messages: transformedMessages,
       temperature: 0.25,
     });
 
-    return result.toTextStreamResponse();
+    const text = await result.text;
+    console.log('✅ Got response text:', text);
+
+    return NextResponse.json({
+      text: text
+    });
   } catch (error) {
     console.error("Atlas AI error:", error);
     return NextResponse.json(

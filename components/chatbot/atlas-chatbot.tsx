@@ -1,9 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { useChat } from "@ai-sdk/react";
-import { DefaultChatTransport } from "ai";
 import { Bot, Loader2, Send, Sparkles } from "lucide-react";
+
+interface ChatMessage {
+  id: string;
+  role: "user" | "assistant";
+  parts: Array<{ type: string; text: string }>;
+}
 
 export function AtlasChatbot({
   contextCountry,
@@ -13,30 +17,70 @@ export function AtlasChatbot({
   compact?: boolean;
 }) {
   const [input, setInput] = useState(contextCountry ? `Giải thích hồ sơ chính trị của ${contextCountry}` : "");
-  
-  const { messages, status, error, sendMessage } = useChat({
-    transport: new DefaultChatTransport({
-      api: "/api/chatbot",
-      body: { contextCountry },
-    }),
-    messages: [
-      {
-        id: "initial-msg",
-        role: "assistant",
-        parts: [{ type: "text", text: "Atlas AI sẵn sàng hỗ trợ. Hãy hỏi theo nhiều lớp: hệ tư tưởng, hình thức nhà nước, cơ cấu quyền lực, lãnh đạo, kinh tế và tài liệu tham khảo." }]
-      }
-    ],
-  });
+  const [messages, setMessages] = useState<ChatMessage[]>([
+    {
+      id: "initial-msg",
+      role: "assistant",
+      parts: [{ type: "text", text: "Atlas AI sẵn sàng hỗ trợ. Hãy hỏi theo nhiều lớp: hệ tư tưởng, hình thức nhà nước, cơ cấu quyền lực, lãnh đạo, kinh tế và tài liệu tham khảo." }]
+    }
+  ]);
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  const isLoading = status === "submitted" || status === "streaming";
-  // Limit visible messages to the last 6 to keep UI clean, but always keep the conversation going
+  // Limit visible messages to the last 6 to keep UI clean
   const visibleMessages = messages.slice(-6);
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    if (!input.trim() || isLoading) return;
-    sendMessage({ text: input.trim() });
+    const userMessage = input.trim();
+    console.log('📤 Sending message:', userMessage);
+    if (!userMessage || isLoading) return;
+
+    // Add user message
+    const userMsg: ChatMessage = {
+      id: `msg-${Date.now()}`,
+      role: "user",
+      parts: [{ type: "text", text: userMessage }]
+    };
+    setMessages(prev => [...prev, userMsg]);
     setInput("");
+    setIsLoading(true);
+    setError(null);
+
+    try {
+      const response = await fetch("/api/chatbot", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          messages: [...messages, userMsg].map(m => ({
+            role: m.role,
+            parts: m.parts
+          })),
+          contextCountry
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`API error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log('✅ Got response:', data.text);
+
+      // Add assistant message
+      const assistantMsg: ChatMessage = {
+        id: `msg-${Date.now()}-assistant`,
+        role: "assistant",
+        parts: [{ type: "text", text: data.text }]
+      };
+      setMessages(prev => [...prev, assistantMsg]);
+    } catch (err) {
+      const errorMsg = err instanceof Error ? err.message : "Lỗi không xác định";
+      console.error('❌ Error:', errorMsg);
+      setError(errorMsg);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (

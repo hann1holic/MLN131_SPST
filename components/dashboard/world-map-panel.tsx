@@ -87,6 +87,7 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
   const [activeIso3, setActiveIso3] = useState(
     countriesByIso3.get("VNM")?.iso3 ?? mapFeatures.find((item) => item.country)?.country?.iso3
   );
+  const [lockedIso3, setLockedIso3] = useState<string | null>(null);
   const [transform, setTransform] = useState<Transform>({ scale: 1, x: 0, y: 0 });
   const [isPanning, setIsPanning] = useState(false);
   const dragStartRef = useRef<{ x: number; y: number; transform: Transform } | null>(null);
@@ -96,8 +97,15 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
     (activeIso3 ? countriesByIso3.get(activeIso3) : undefined) ?? mapFeatures.find((item) => item.country)?.country;
 
   function setActiveCountry(country?: CountryPoliticalProfile) {
+    if (country && !lockedIso3) {
+      setActiveIso3(country.iso3);
+    }
+  }
+
+  function handleCountryClick(country?: CountryPoliticalProfile) {
     if (country) {
       setActiveIso3(country.iso3);
+      setLockedIso3(country.iso3);
     }
   }
 
@@ -219,39 +227,34 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
                 const fill = regimeFill[country?.regimeCategory ?? "Unknown"];
 
                 return (
-                  <Link
+                  <path
                     key={`${item.numericId}-${index}`}
-                    href={country ? `/countries/${country.iso3}` : "#map"}
-                    aria-label={country ? `Mở hồ sơ ${displayCountryName(country)}` : `Không có hồ sơ cho ${item.geoName}`}
-                    onClick={(event) => {
-                      if (!country) {
-                        event.preventDefault();
+                    d={item.d}
+                    tabIndex={country ? 0 : -1}
+                    className={cn(
+                      "outline-none transition duration-150",
+                      country ? "cursor-pointer hover:brightness-125 focus:brightness-125" : "cursor-not-allowed opacity-40"
+                    )}
+                    fill={country ? fill : "#1f2937"}
+                    fillOpacity={isActive ? 0.96 : country ? 0.78 : 0.36}
+                    stroke={isActive ? "#f8fafc" : lockedIso3 === country?.iso3 ? "#fbbf24" : "#0f172a"}
+                    strokeWidth={isActive ? 1.8 / transform.scale : 0.65 / transform.scale}
+                    filter={isActive ? "url(#country-glow)" : undefined}
+                    vectorEffect="non-scaling-stroke"
+                    onMouseEnter={() => setActiveCountry(country)}
+                    onFocus={() => setActiveCountry(country)}
+                    onClick={(e) => {
+                      if (country) {
+                        handleCountryClick(country);
                       }
                     }}
                   >
-                    <path
-                      d={item.d}
-                      tabIndex={country ? 0 : -1}
-                      className={cn(
-                        "outline-none transition duration-150",
-                        country ? "cursor-pointer hover:brightness-125 focus:brightness-125" : "cursor-not-allowed opacity-40"
-                      )}
-                      fill={country ? fill : "#1f2937"}
-                      fillOpacity={isActive ? 0.96 : country ? 0.78 : 0.36}
-                      stroke={isActive ? "#f8fafc" : "#0f172a"}
-                      strokeWidth={isActive ? 1.8 / transform.scale : 0.65 / transform.scale}
-                      filter={isActive ? "url(#country-glow)" : undefined}
-                      vectorEffect="non-scaling-stroke"
-                      onMouseEnter={() => setActiveCountry(country)}
-                      onFocus={() => setActiveCountry(country)}
-                    >
-                      <title>
-                        {country
-                          ? `${displayCountryName(country)} · ${displayValue(country.governmentSystem)}`
-                          : `${item.geoName} · chưa có hồ sơ`}
-                      </title>
-                    </path>
-                  </Link>
+                    <title>
+                      {country
+                        ? `${country.countryName}${lockedIso3 === country?.iso3 ? " (Khóa)" : ""} · ${displayValue(country.governmentSystem)}`
+                        : `${item.geoName} · chưa có hồ sơ`}
+                    </title>
+                  </path>
                 );
               })}
             </g>
@@ -287,10 +290,21 @@ export function WorldMapPanel({ countries }: { countries: CountryPoliticalProfil
                 <MapFact label="Cấu trúc quyền lực" value={activeCountry.powerStructure} />
               </dl>
 
-              <Link href={`/countries/${activeCountry.iso3}`} className="atlas-button focus-ring w-full px-4">
-                <ExternalLink className="h-4 w-4" aria-hidden="true" />
-                Mở hồ sơ chi tiết
-              </Link>
+              <div className="flex gap-3">
+                <Link href={`/countries/${activeCountry.iso3}`} className="atlas-button focus-ring flex-1 px-4">
+                  <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                  Mở hồ sơ chi tiết
+                </Link>
+                {lockedIso3 && (
+                  <button
+                    onClick={() => setLockedIso3(null)}
+                    className="atlas-button focus-ring px-3 text-amber-400 hover:bg-amber-400/10"
+                    title="Bỏ khóa quốc gia"
+                  >
+                    🔒
+                  </button>
+                )}
+              </div>
             </div>
           ) : (
             <div className="flex min-h-[320px] items-center justify-center rounded-lg border border-dashed border-slate-700 text-center text-sm text-slate-400">
