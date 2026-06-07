@@ -1,4 +1,4 @@
-# Hồ sơ thể chế chính trị, nhà nước, đảng phái, quân sự, khoa học, kinh tế, văn hóa và xã hội của 250+ quốc gia/vùng lãnh thổ
+﻿# Hồ sơ thể chế chính trị, nhà nước, đảng phái, quân sự, khoa học, kinh tế, văn hóa và xã hội của 250+ quốc gia/vùng lãnh thổ
 Ngày tạo: 2026-06-06
 ## Phạm vi và lưu ý sử dụng
 File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đó, gồm **251 thực thể**. Mỗi hồ sơ có cùng cấu trúc để thuận tiện nhập vào CMS, cơ sở dữ liệu, hoặc dùng làm khung nghiên cứu. Các trường GDP, GDP đầu người, mô hình chính phủ và nhóm chế độ được kế thừa từ file seed; các mục đòi hỏi cập nhật theo thời gian như tên lãnh đạo, số lượng đảng phái, ngân sách quốc phòng, quân số, xếp hạng khoa học, dân số, tôn giáo, đô thị hóa... được đánh dấu là **cần đối chiếu/cập nhật** nếu chưa có nguồn chuẩn trong seed. Không nên coi đây là bản dữ liệu học thuật cuối cùng nếu chưa kiểm chứng từng quốc gia bằng nguồn chính thức mới nhất.
@@ -264,7 +264,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 797000000 USD (~0.8 tỷ USD)
 - **GDP đầu người danh nghĩa:** 18,018 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -336,7 +336,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3662000000 USD (~3.66 tỷ USD)
 - **GDP đầu người danh nghĩa:** 49,304 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -480,7 +480,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 282000000 USD (~0.28 tỷ USD)
 - **GDP đầu người danh nghĩa:** 31,269 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -624,7 +624,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2066000000 USD (~2.07 tỷ USD)
 - **GDP đầu người danh nghĩa:** 23,726 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -840,7 +840,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3640000000 USD (~3.64 tỷ USD)
 - **GDP đầu người danh nghĩa:** 33,985 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -1344,7 +1344,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 5998000000 USD (~6 tỷ USD)
 - **GDP đầu người danh nghĩa:** 25,365 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -1560,7 +1560,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2398000000 USD (~2.4 tỷ USD)
 - **GDP đầu người danh nghĩa:** 8,430 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -1776,7 +1776,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 8270000000 USD (~8.27 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -2424,7 +2424,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 16500000000 USD (~16.5 tỷ USD)
 - **GDP đầu người danh nghĩa:** 33,418 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -2640,7 +2640,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4286000000 USD (~4.29 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -2928,7 +2928,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2190000000 USD (~2.19 tỷ USD)
 - **GDP đầu người danh nghĩa:** 5,273 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -3000,7 +3000,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 7659000000 USD (~7.66 tỷ USD)
 - **GDP đầu người danh nghĩa:** 97,750 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -3072,7 +3072,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2916000000 USD (~2.92 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -3576,7 +3576,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1405000000 USD (~1.4 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -3648,7 +3648,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 404000000 USD (~0.4 tỷ USD)
 - **GDP đầu người danh nghĩa:** 30,161 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -4296,7 +4296,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3572000000 USD (~3.57 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -4368,7 +4368,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 706000000 USD (~0.71 tỷ USD)
 - **GDP đầu người danh nghĩa:** 10,405 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -4728,7 +4728,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 10447000000 USD (~10.45 tỷ USD)
 - **GDP đầu người danh nghĩa:** 6,745 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -4800,7 +4800,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 8090000000 USD (~8.09 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -4944,7 +4944,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 5004000000 USD (~5 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5088,7 +5088,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 307000000 USD (~0.31 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5160,7 +5160,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3640000000 USD (~3.64 tỷ USD)
 - **GDP đầu người danh nghĩa:** 74,120 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5232,7 +5232,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 425000000 USD (~0.42 tỷ USD)
 - **GDP đầu người danh nghĩa:** 4,166 USD/người
 - **Mức phát triển tham khảo:** Thu nhập thấp hoặc trung bình thấp theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5304,7 +5304,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4461000000 USD (~4.46 tỷ USD)
 - **GDP đầu người danh nghĩa:** 6,288 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5520,7 +5520,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4050000000 USD (~4.05 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5592,7 +5592,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 5700000000 USD (~5.7 tỷ USD)
 - **GDP đầu người danh nghĩa:** 22,774 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -5808,7 +5808,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2881000000 USD (~2.88 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6096,7 +6096,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2480000000 USD (~2.48 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6240,7 +6240,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2660000000 USD (~2.66 tỷ USD)
 - **GDP đầu người danh nghĩa:** 58,499 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6312,7 +6312,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1430000000 USD (~1.43 tỷ USD)
 - **GDP đầu người danh nghĩa:** 11,872 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6384,7 +6384,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 10310000000 USD (~10.31 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6456,7 +6456,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 7289000000 USD (~7.29 tỷ USD)
 - **GDP đầu người danh nghĩa:** 41,833 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6600,7 +6600,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4650000000 USD (~4.65 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -6744,7 +6744,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2281000000 USD (~2.28 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -7032,7 +7032,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 390000000 USD (~0.39 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -7752,7 +7752,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 6360000000 USD (~6.36 tỷ USD)
 - **GDP đầu người danh nghĩa:** 88,329 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -8184,7 +8184,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 5670000000 USD (~5.67 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -8472,7 +8472,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 233000000 USD (~0.23 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -8544,7 +8544,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 22155000000 USD (~22.16 tỷ USD)
 - **GDP đầu người danh nghĩa:** 7,299 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -8976,7 +8976,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4182000000 USD (~4.18 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -9048,7 +9048,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3881000000 USD (~3.88 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -9192,7 +9192,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 7120000000 USD (~7.12 tỷ USD)
 - **GDP đầu người danh nghĩa:** 207,973 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -9912,7 +9912,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 253000000 USD (~0.25 tỷ USD)
 - **GDP đầu người danh nghĩa:** 7,467 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -9984,7 +9984,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 11320000000 USD (~11.32 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -10056,7 +10056,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 7882000000 USD (~7.88 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -10200,7 +10200,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3550000000 USD (~3.55 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -10416,7 +10416,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 8290000000 USD (~8.29 tỷ USD)
 - **GDP đầu người danh nghĩa:** 288,004 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -10992,7 +10992,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 156000000 USD (~0.16 tỷ USD)
 - **GDP đầu người danh nghĩa:** 13,422 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -11568,7 +11568,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 367000000 USD (~0.37 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -11856,7 +11856,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1300000000 USD (~1.3 tỷ USD)
 - **GDP đầu người danh nghĩa:** 23,786 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -12144,7 +12144,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 398000000 USD (~0.4 tỷ USD)
 - **GDP đầu người danh nghĩa:** 15,899 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13512,7 +13512,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1520000000 USD (~1.52 tỷ USD)
 - **GDP đầu người danh nghĩa:** 22,771 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13584,7 +13584,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2480000000 USD (~2.48 tỷ USD)
 - **GDP đầu người danh nghĩa:** 14,182 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13728,7 +13728,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 330000000 USD (~0.33 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13800,7 +13800,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1041000000 USD (~1.04 tỷ USD)
 - **GDP đầu người danh nghĩa:** 11,501 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13872,7 +13872,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 971000000 USD (~0.97 tỷ USD)
 - **GDP đầu người danh nghĩa:** 4,899 USD/người
 - **Mức phát triển tham khảo:** Thu nhập thấp hoặc trung bình thấp theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -13944,7 +13944,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1860000000 USD (~1.86 tỷ USD)
 - **GDP đầu người danh nghĩa:** 54,265 USD/người
 - **Mức phát triển tham khảo:** Thu nhập rất cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -14016,7 +14016,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 582000000 USD (~0.58 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -14376,7 +14376,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 4849000000 USD (~4.85 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -14736,7 +14736,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1769000000 USD (~1.77 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -14808,7 +14808,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 9316000000 USD (~9.32 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -15168,7 +15168,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3190000000 USD (~3.19 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -15456,7 +15456,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 5178000000 USD (~5.18 tỷ USD)
 - **GDP đầu người danh nghĩa:** 7,431 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -16104,7 +16104,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 3075000000 USD (~3.08 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -16176,7 +16176,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 13274000000 USD (~13.27 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -16320,7 +16320,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 585000000 USD (~0.58 tỷ USD)
 - **GDP đầu người danh nghĩa:** 4,864 USD/người
 - **Mức phát triển tham khảo:** Thu nhập thấp hoặc trung bình thấp theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -16680,7 +16680,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1870000000 USD (~1.87 tỷ USD)
 - **GDP đầu người danh nghĩa:** 30,349 USD/người
 - **Mức phát triển tham khảo:** Thu nhập cao/khá cao theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -16752,7 +16752,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 67000000 USD (~0.07 tỷ USD)
 - **GDP đầu người danh nghĩa:** 6,345 USD/người
 - **Mức phát triển tham khảo:** Thu nhập trung bình theo ngưỡng tham khảo GDP/người danh nghĩa.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -17472,7 +17472,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 1024000000 USD (~1.02 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -17688,7 +17688,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 263000000 USD (~0.26 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -17760,7 +17760,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 2700000000 USD (~2.7 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -17832,7 +17832,7 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - **An ninh nội địa:** Cần bổ sung cấu trúc cảnh sát, biên phòng, hiến binh, cơ quan tình báo nếu công khai.
 
 ### 6. Kinh tế
-- **GDP danh nghĩa hiện hành:** Chưa có trong bản seed; cần bổ sung từ World Bank/IMF/UN hoặc nguồn thống kê địa phương.
+- **GDP danh nghĩa hiện hành:** 30574000000 USD (~30.57 tỷ USD)
 - **GDP đầu người danh nghĩa:** Chưa có trong bản seed; cần bổ sung/đối chiếu.
 - **Mức phát triển tham khảo:** Chưa phân loại do thiếu GDP đầu người.
 - **Cơ cấu kinh tế:** Cần bổ sung tỷ trọng nông nghiệp/công nghiệp/dịch vụ, ngành chủ lực, xuất nhập khẩu chính.
@@ -18084,3 +18084,4 @@ File này mở rộng từ bảng seed quốc gia/vùng lãnh thổ trước đ�
 - Khi bổ sung dữ liệu, nên ghi rõ **năm dữ liệu**, **nguồn**, **URL**, **ngày truy cập**, và **mức tin cậy**.
 
 ---
+
