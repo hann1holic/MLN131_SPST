@@ -51,8 +51,7 @@
     "hasCommunistRulingParty": true,
     "capital": "Hanoi",
     "population": 98186856,
-    "officialIdeology": "Chủ Nghĩa Xã Hội",
-    "flagSvgUrl": "https://flagcdn.com/w320/vn.svg"
+    "officialIdeology": "Chủ Nghĩa Xã Hội"
   },
   {
     "id": "ru",
@@ -107,8 +106,7 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Moscow",
-    "population": 144714314,
-    "flagSvgUrl": "https://flagcdn.com/w320/ru.svg"
+    "population": 144714314
   },
   {
     "id": "us",
@@ -165,8 +163,7 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Washington D.C.",
-    "population": 338289857,
-    "flagSvgUrl": "https://flagcdn.com/w320/us.svg"
+    "population": 338289857
   },
   {
     "id": "cn",
@@ -221,8 +218,7 @@
     "hasCommunistRulingParty": true,
     "capital": "Beijing",
     "population": 1425887337,
-    "officialIdeology": "Chủ Nghĩa Xã Hội Marxist-Leninist",
-    "flagSvgUrl": "https://flagcdn.com/w320/cn.svg"
+    "officialIdeology": "Chủ Nghĩa Xã Hội Marxist-Leninist"
   },
   {
     "id": "gb",
@@ -272,8 +268,7 @@
     "isMonarchy": true,
     "hasCommunistRulingParty": false,
     "capital": "London",
-    "population": 68138000,
-    "flagSvgUrl": "https://flagcdn.com/w320/gb.svg"
+    "population": 68138000
   },
   {
     "id": "se",
@@ -305,8 +300,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Stockholm",
     "population": 10520575,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/se.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "cu",
@@ -339,8 +333,7 @@
     "capital": "Havana",
     "population": 10987317,
     "stateForm": "Cộng Hòa Xã Hội Chủ Nghĩa",
-    "officialIdeology": "Chủ Nghĩa Xã Hội",
-    "flagSvgUrl": "https://flagcdn.com/w320/cu.svg"
+    "officialIdeology": "Chủ Nghĩa Xã Hội"
   },
   {
     "id": "afg",
@@ -350,7 +343,7 @@
     "countryName": "Afghanistan",
     "officialName": "Afghanistan",
     "englishName": "Afghanistan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇫",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -362,8 +355,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kabul",
     "population": 40218000,
-    "stateForm": "Cộng Hòa/Chế Độ Bầu Cử",
-    "flagSvgUrl": "https://flagcdn.com/w320/af.svg"
+    "stateForm": "Cộng Hòa/Chế Độ Bầu Cử"
   },
   {
     "id": "alb",
@@ -373,7 +365,7 @@
     "countryName": "Albania",
     "officialName": "Albania",
     "englishName": "Albania",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇱",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -385,8 +377,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tirana",
     "population": 2877800,
-    "stateForm": "Cộng Hòa Dân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/al.svg"
+    "stateForm": "Cộng Hòa Dân Chủ"
   },
   {
     "id": "dza",
@@ -396,7 +387,7 @@
     "countryName": "Algeria",
     "officialName": "Algeria",
     "englishName": "Algeria",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -408,8 +399,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Algiers",
     "population": 44903225,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/dz.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "asm",
@@ -419,7 +409,7 @@
     "countryName": "American Samoa",
     "officialName": "American Samoa",
     "englishName": "American Samoa",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇸",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -428,8 +418,7 @@
     "gdp": 797000000,
     "gdpPerCapita": 18018,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/as.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "and",
@@ -439,7 +428,7 @@
     "countryName": "Andorra",
     "officialName": "Andorra",
     "englishName": "Andorra",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇩",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -451,8 +440,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Andorra la Vella",
     "population": 77543,
-    "stateForm": "Đồng Thể Tập",
-    "flagSvgUrl": "https://flagcdn.com/w320/ad.svg"
+    "stateForm": "Đồng Thể Tập"
   },
   {
     "id": "ago",
@@ -462,7 +450,7 @@
     "countryName": "Angola",
     "officialName": "Angola",
     "englishName": "Angola",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -474,8 +462,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Luanda",
     "population": 35588987,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ao.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "aia",
@@ -485,7 +472,7 @@
     "countryName": "Anguilla",
     "officialName": "Anguilla",
     "englishName": "Anguilla",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇮",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -494,8 +481,7 @@
     "gdp": 282000000,
     "gdpPerCapita": 31269,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ai.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "ata",
@@ -505,15 +491,14 @@
     "countryName": "Antarctica",
     "officialName": "Antarctica",
     "englishName": "Antarctica",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇶",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/aq.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "atg",
@@ -523,7 +508,7 @@
     "countryName": "Antigua and Barbuda",
     "officialName": "Antigua and Barbuda",
     "englishName": "Antigua and Barbuda",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇬",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -535,8 +520,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Saint John's",
     "population": 97118,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/ag.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "arg",
@@ -546,7 +530,7 @@
     "countryName": "Argentina",
     "officialName": "Argentina",
     "englishName": "Argentina",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -558,8 +542,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Buenos Aires",
     "population": 46233344,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ar.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "arm",
@@ -569,7 +552,7 @@
     "countryName": "Armenia",
     "officialName": "Armenia",
     "englishName": "Armenia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -581,8 +564,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Yerevan",
     "population": 2963234,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/am.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "abw",
@@ -592,7 +574,7 @@
     "countryName": "Aruba",
     "officialName": "Aruba",
     "englishName": "Aruba",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇼",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -601,8 +583,7 @@
     "gdp": 3640000000,
     "gdpPerCapita": 33985,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/aw.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "aus",
@@ -612,7 +593,7 @@
     "countryName": "Australia",
     "officialName": "Australia",
     "englishName": "Australia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇺",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -624,8 +605,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Canberra",
     "population": 25687041,
-    "stateForm": "Quân Chủ Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/au.svg"
+    "stateForm": "Quân Chủ Liên Bang"
   },
   {
     "id": "aut",
@@ -635,7 +615,7 @@
     "countryName": "Austria",
     "officialName": "Austria",
     "englishName": "Austria",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇹",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -647,8 +627,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vienna",
     "population": 9042000,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/at.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "aze",
@@ -658,7 +637,7 @@
     "countryName": "Azerbaijan",
     "officialName": "Azerbaijan",
     "englishName": "Azerbaijan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -670,8 +649,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Baku",
     "population": 10139177,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/az.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bhs",
@@ -681,7 +659,7 @@
     "countryName": "Bahamas",
     "officialName": "Bahamas",
     "englishName": "Bahamas",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇸",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -693,8 +671,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Nassau",
     "population": 399285,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/bs.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "bhr",
@@ -704,7 +681,7 @@
     "countryName": "Bahrain",
     "officialName": "Bahrain",
     "englishName": "Bahrain",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇭",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -716,8 +693,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Manama",
     "population": 1748296,
-    "stateForm": "Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/bh.svg"
+    "stateForm": "Tiểu Vương Quốc"
   },
   {
     "id": "bgd",
@@ -727,7 +703,7 @@
     "countryName": "Bangladesh",
     "officialName": "Bangladesh",
     "englishName": "Bangladesh",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -739,8 +715,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dhaka",
     "population": 169356251,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bd.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "brb",
@@ -750,7 +725,7 @@
     "countryName": "Barbados",
     "officialName": "Barbados",
     "englishName": "Barbados",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇧",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -762,8 +737,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bridgetown",
     "population": 287025,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/bb.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "blr",
@@ -773,7 +747,7 @@
     "countryName": "Belarus",
     "officialName": "Belarus",
     "englishName": "Belarus",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -785,8 +759,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Minsk",
     "population": 9379287,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/by.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bel",
@@ -796,7 +769,7 @@
     "countryName": "Belgium",
     "officialName": "Belgium",
     "englishName": "Belgium",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇪",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -808,8 +781,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Brussels",
     "population": 11590324,
-    "stateForm": "Quân Chủ Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/be.svg"
+    "stateForm": "Quân Chủ Liên Bang"
   },
   {
     "id": "blz",
@@ -819,7 +791,7 @@
     "countryName": "Belize",
     "officialName": "Belize",
     "englishName": "Belize",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -831,8 +803,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Belmopan",
     "population": 405432,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/bz.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "ben",
@@ -842,7 +813,7 @@
     "countryName": "Benin",
     "officialName": "Benin",
     "englishName": "Benin",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇯",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -854,8 +825,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Porto-Novo",
     "population": 13352864,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bj.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bmu",
@@ -865,7 +835,7 @@
     "countryName": "Bermuda",
     "officialName": "Bermuda",
     "englishName": "Bermuda",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -873,8 +843,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 142855,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/bm.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "btn",
@@ -884,7 +853,7 @@
     "countryName": "Bhutan",
     "officialName": "Bhutan",
     "englishName": "Bhutan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇹",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -896,8 +865,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Thimphu",
     "population": 777486,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/bt.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "bol",
@@ -907,7 +875,7 @@
     "countryName": "Bolivia, Plurinational State of",
     "officialName": "Bolivia, Plurinational State of",
     "englishName": "Bolivia, Plurinational State of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -919,8 +887,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "La Paz",
     "population": 12224110,
-    "stateForm": "Cộng Hòa Đa Dân Tộc",
-    "flagSvgUrl": "https://flagcdn.com/w320/bo.svg"
+    "stateForm": "Cộng Hòa Đa Dân Tộc"
   },
   {
     "id": "bes",
@@ -930,15 +897,14 @@
     "countryName": "Bonaire, Sint Eustatius and Saba",
     "officialName": "Bonaire, Sint Eustatius and Saba",
     "englishName": "Bonaire, Sint Eustatius and Saba",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇶",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/bq.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "bih",
@@ -948,7 +914,7 @@
     "countryName": "Bosnia and Herzegovina",
     "officialName": "Bosnia and Herzegovina",
     "englishName": "Bosnia and Herzegovina",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -960,8 +926,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Sarajevo",
     "population": 3280819,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ba.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bwa",
@@ -971,7 +936,7 @@
     "countryName": "Botswana",
     "officialName": "Botswana",
     "englishName": "Botswana",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇼",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -983,8 +948,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Gaborone",
     "population": 2630296,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bvt",
@@ -994,15 +958,14 @@
     "countryName": "Bouvet Island",
     "officialName": "Bouvet Island",
     "englishName": "Bouvet Island",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇻",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/bv.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "bra",
@@ -1012,7 +975,7 @@
     "countryName": "Brazil",
     "officialName": "Brazil",
     "englishName": "Brazil",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1024,8 +987,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Brasília",
     "population": 215313498,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/br.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "iot",
@@ -1035,15 +997,14 @@
     "countryName": "British Indian Ocean Territory",
     "officialName": "British Indian Ocean Territory",
     "englishName": "British Indian Ocean Territory",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇴",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/io.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "vgb",
@@ -1053,7 +1014,7 @@
     "countryName": "Virgin Islands, British",
     "officialName": "Virgin Islands, British",
     "englishName": "Virgin Islands, British",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇬",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1061,8 +1022,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 38627,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/vg.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "brn",
@@ -1072,7 +1032,7 @@
     "countryName": "Brunei Darussalam",
     "officialName": "Brunei Darussalam",
     "englishName": "Brunei Darussalam",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇳",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -1084,8 +1044,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Bandar Seri Begawan",
     "population": 437479,
-    "stateForm": "Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/bn.svg"
+    "stateForm": "Tiểu Vương Quốc"
   },
   {
     "id": "bgr",
@@ -1095,7 +1054,7 @@
     "countryName": "Bulgaria",
     "officialName": "Bulgaria",
     "englishName": "Bulgaria",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1107,8 +1066,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Sofia",
     "population": 6844506,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bg.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bfa",
@@ -1118,7 +1076,7 @@
     "countryName": "Burkina Faso",
     "officialName": "Burkina Faso",
     "englishName": "Burkina Faso",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇫",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1130,8 +1088,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Ouagadougou",
     "population": 22100683,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bf.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "bdi",
@@ -1141,7 +1098,7 @@
     "countryName": "Burundi",
     "officialName": "Burundi",
     "englishName": "Burundi",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇮",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1153,8 +1110,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Gitega",
     "population": 13625313,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/bi.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "khm",
@@ -1164,7 +1120,7 @@
     "countryName": "Cambodia",
     "officialName": "Cambodia",
     "englishName": "Cambodia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇭",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1176,8 +1132,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Phnom Penh",
     "population": 17038563,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/kh.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "cmr",
@@ -1187,7 +1142,7 @@
     "countryName": "Cameroon",
     "officialName": "Cameroon",
     "englishName": "Cameroon",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1199,8 +1154,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Yaoundé",
     "population": 28914993,
-    "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagSvgUrl": "https://flagcdn.com/w320/cm.svg"
+    "stateForm": "Cộng Hòa Đơn Nhất"
   },
   {
     "id": "can",
@@ -1210,7 +1164,7 @@
     "countryName": "Canada",
     "officialName": "Canada",
     "englishName": "Canada",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇦",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1222,8 +1176,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Ottawa",
     "population": 40240338,
-    "stateForm": "Quân Chủ Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ca.svg"
+    "stateForm": "Quân Chủ Liên Bang"
   },
   {
     "id": "cpv",
@@ -1233,7 +1186,7 @@
     "countryName": "Cabo Verde",
     "officialName": "Cabo Verde",
     "englishName": "Cabo Verde",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇻",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1245,8 +1198,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Praia",
     "population": 583255,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cv.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "cym",
@@ -1256,7 +1208,7 @@
     "countryName": "Cayman Islands",
     "officialName": "Cayman Islands",
     "englishName": "Cayman Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇾",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1265,8 +1217,7 @@
     "gdp": 7659000000,
     "gdpPerCapita": 97750,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ky.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "caf",
@@ -1276,7 +1227,7 @@
     "countryName": "Central African Republic",
     "officialName": "Central African Republic",
     "englishName": "Central African Republic",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇫",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1288,8 +1239,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bangui",
     "population": 5579144,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cf.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tcd",
@@ -1299,7 +1249,7 @@
     "countryName": "Chad",
     "officialName": "Chad",
     "englishName": "Chad",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1311,8 +1261,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "N'Djamena",
     "population": 17879106,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/td.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "chl",
@@ -1322,7 +1271,7 @@
     "countryName": "Chile",
     "officialName": "Chile",
     "englishName": "Chile",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇱",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1334,8 +1283,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Santiago",
     "population": 19829319,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cl.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "cxr",
@@ -1345,15 +1293,14 @@
     "countryName": "Christmas Island",
     "officialName": "Christmas Island",
     "englishName": "Christmas Island",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇽",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/cx.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "cck",
@@ -1363,15 +1310,14 @@
     "countryName": "Cocos (Keeling) Islands",
     "officialName": "Cocos (Keeling) Islands",
     "englishName": "Cocos (Keeling) Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇨",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/cc.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "col",
@@ -1381,7 +1327,7 @@
     "countryName": "Colombia",
     "officialName": "Colombia",
     "englishName": "Colombia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1393,8 +1339,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bogotá",
     "population": 52085168,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/co.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "com",
@@ -1404,7 +1349,7 @@
     "countryName": "Comoros",
     "officialName": "Comoros",
     "englishName": "Comoros",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1416,8 +1361,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Moroni",
     "population": 859214,
-    "stateForm": "Cộng Hòa Liên Hợp",
-    "flagSvgUrl": "https://flagcdn.com/w320/km.svg"
+    "stateForm": "Cộng Hòa Liên Hợp"
   },
   {
     "id": "cok",
@@ -1427,7 +1371,7 @@
     "countryName": "Cook Islands",
     "officialName": "Cook Islands",
     "englishName": "Cook Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇰",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1436,8 +1380,7 @@
     "gdp": 404000000,
     "gdpPerCapita": 30161,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ck.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "cri",
@@ -1447,7 +1390,7 @@
     "countryName": "Costa Rica",
     "officialName": "Costa Rica",
     "englishName": "Costa Rica",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇷",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1459,8 +1402,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "San José",
     "population": 5180829,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cr.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "hrv",
@@ -1470,7 +1412,7 @@
     "countryName": "Croatia",
     "officialName": "Croatia",
     "englishName": "Croatia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1482,8 +1424,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Zagreb",
     "population": 3880963,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/hr.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "cuw",
@@ -1493,7 +1434,7 @@
     "countryName": "Curaçao",
     "officialName": "Curaçao",
     "englishName": "Curaçao",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇼",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1501,8 +1442,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 22192,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/cw.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "cyp",
@@ -1512,7 +1452,7 @@
     "countryName": "Cyprus",
     "officialName": "Cyprus",
     "englishName": "Cyprus",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1524,8 +1464,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Nicosia",
     "population": 1251189,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cy.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "cze",
@@ -1535,7 +1474,7 @@
     "countryName": "Czechia",
     "officialName": "Czechia",
     "englishName": "Czechia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇿",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1547,8 +1486,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Prague",
     "population": 10505445,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cz.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "cod",
@@ -1558,7 +1496,7 @@
     "countryName": "Congo, The Democratic Republic of the",
     "officialName": "Congo, The Democratic Republic of the",
     "englishName": "Congo, The Democratic Republic of the",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1570,8 +1508,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kinshasa",
     "population": 99010212,
-    "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagSvgUrl": "https://flagcdn.com/w320/cd.svg"
+    "stateForm": "Cộng Hòa Đơn Nhất"
   },
   {
     "id": "dnk",
@@ -1581,7 +1518,7 @@
     "countryName": "Denmark",
     "officialName": "Denmark",
     "englishName": "Denmark",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇰",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1593,8 +1530,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Copenhagen",
     "population": 5915000,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/dk.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "dji",
@@ -1604,7 +1540,7 @@
     "countryName": "Djibouti",
     "officialName": "Djibouti",
     "englishName": "Djibouti",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇯",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1616,8 +1552,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Djibouti",
     "population": 1120000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/dj.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "dma",
@@ -1627,7 +1562,7 @@
     "countryName": "Dominica",
     "officialName": "Dominica",
     "englishName": "Dominica",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1639,8 +1574,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Roseau",
     "population": 72412,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/dm.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "dom",
@@ -1650,7 +1584,7 @@
     "countryName": "Dominican Republic",
     "officialName": "Dominican Republic",
     "englishName": "Dominican Republic",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1662,8 +1596,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Santo Domingo",
     "population": 11394979,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/do.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ecu",
@@ -1673,7 +1606,7 @@
     "countryName": "Ecuador",
     "officialName": "Ecuador",
     "englishName": "Ecuador",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇨",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1685,8 +1618,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Quito",
     "population": 18001000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ec.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "egy",
@@ -1696,7 +1628,7 @@
     "countryName": "Egypt",
     "officialName": "Egypt",
     "englishName": "Egypt",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1708,8 +1640,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Cairo",
     "population": 110012103,
-    "stateForm": "Cộng Hòa Ả Rập",
-    "flagSvgUrl": "https://flagcdn.com/w320/eg.svg"
+    "stateForm": "Cộng Hòa Ả Rập"
   },
   {
     "id": "slv",
@@ -1719,7 +1650,7 @@
     "countryName": "El Salvador",
     "officialName": "El Salvador",
     "englishName": "El Salvador",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇻",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1731,8 +1662,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "San Salvador",
     "population": 6336392,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sv.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "gnq",
@@ -1742,7 +1672,7 @@
     "countryName": "Equatorial Guinea",
     "officialName": "Equatorial Guinea",
     "englishName": "Equatorial Guinea",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇶",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1754,8 +1684,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Malabo",
     "population": 1674908,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gq.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "eri",
@@ -1765,7 +1694,7 @@
     "countryName": "Eritrea",
     "officialName": "Eritrea",
     "englishName": "Eritrea",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇷",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -1777,8 +1706,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Asmara",
     "population": 5352379,
-    "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagSvgUrl": "https://flagcdn.com/w320/er.svg"
+    "stateForm": "Cộng Hòa Đơn Nhất"
   },
   {
     "id": "est",
@@ -1788,7 +1716,7 @@
     "countryName": "Estonia",
     "officialName": "Estonia",
     "englishName": "Estonia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇪",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1800,8 +1728,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Tallinn",
     "population": 1348354,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ee.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "swz",
@@ -1811,7 +1738,7 @@
     "countryName": "Eswatini",
     "officialName": "Eswatini",
     "englishName": "Eswatini",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1823,8 +1750,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Mbabane",
     "population": 1220000,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/sz.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "eth",
@@ -1834,7 +1760,7 @@
     "countryName": "Ethiopia",
     "officialName": "Ethiopia",
     "englishName": "Ethiopia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇹",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -1846,8 +1772,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Addis Ababa",
     "population": 132637591,
-    "stateForm": "Cộng Hòa Liên Bang Dân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/et.svg"
+    "stateForm": "Cộng Hòa Liên Bang Dân Chủ"
   },
   {
     "id": "flk",
@@ -1857,7 +1782,7 @@
     "countryName": "Falkland Islands (Malvinas)",
     "officialName": "Falkland Islands (Malvinas)",
     "englishName": "Falkland Islands (Malvinas)",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇰",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1866,8 +1791,7 @@
     "gdp": 307000000,
     "gdpPerCapita": 45000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/fk.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "fro",
@@ -1877,7 +1801,7 @@
     "countryName": "Faroe Islands",
     "officialName": "Faroe Islands",
     "englishName": "Faroe Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇴",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1886,8 +1810,7 @@
     "gdp": 3640000000,
     "gdpPerCapita": 74120,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/fo.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "fsm",
@@ -1897,7 +1820,7 @@
     "countryName": "Micronesia, Federated States of",
     "officialName": "Micronesia, Federated States of",
     "englishName": "Micronesia, Federated States of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -1909,8 +1832,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Palikir",
     "population": 119000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/fm.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "fji",
@@ -1920,7 +1842,7 @@
     "countryName": "Fiji",
     "officialName": "Fiji",
     "englishName": "Fiji",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇯",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -1932,8 +1854,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Suva",
     "population": 931741,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/fj.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "fin",
@@ -1943,7 +1864,7 @@
     "countryName": "Finland",
     "officialName": "Finland",
     "englishName": "Finland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇮",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1955,8 +1876,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Helsinki",
     "population": 5563600,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/fi.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "fra",
@@ -1966,7 +1886,7 @@
     "countryName": "France",
     "officialName": "France",
     "englishName": "France",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇫🇷",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -1998,8 +1918,7 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Paris",
-    "population": 68014000,
-    "flagSvgUrl": "https://flagcdn.com/w320/fr.svg"
+    "population": 68014000
   },
   {
     "id": "guf",
@@ -2009,7 +1928,7 @@
     "countryName": "French Guiana",
     "officialName": "French Guiana",
     "englishName": "French Guiana",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2018,8 +1937,7 @@
     "gdp": 4050000000,
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "pyf",
@@ -2029,7 +1947,7 @@
     "countryName": "French Polynesia",
     "officialName": "French Polynesia",
     "englishName": "French Polynesia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2038,8 +1956,7 @@
     "gdp": 5700000000,
     "gdpPerCapita": 22774,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/pf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "atf",
@@ -2049,15 +1966,14 @@
     "countryName": "French Southern Territories",
     "officialName": "French Southern Territories",
     "englishName": "French Southern Territories",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/tf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "gab",
@@ -2067,7 +1983,7 @@
     "countryName": "Gabon",
     "officialName": "Gabon",
     "englishName": "Gabon",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2079,8 +1995,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Libreville",
     "population": 2388992,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ga.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "gmb",
@@ -2090,7 +2005,7 @@
     "countryName": "Gambia",
     "officialName": "Gambia",
     "englishName": "Gambia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2102,8 +2017,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Banjul",
     "population": 2705992,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gm.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "geo",
@@ -2113,7 +2027,7 @@
     "countryName": "Georgia",
     "officialName": "Georgia",
     "englishName": "Georgia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2125,8 +2039,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tbilisi",
     "population": 3708610,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ge.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "deu",
@@ -2136,7 +2049,7 @@
     "countryName": "Germany",
     "officialName": "Germany",
     "englishName": "Germany",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇩🇪",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -2167,8 +2080,7 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Berlin",
-    "population": 83369843,
-    "flagSvgUrl": "https://flagcdn.com/w320/de.svg"
+    "population": 83369843
   },
   {
     "id": "gha",
@@ -2178,7 +2090,7 @@
     "countryName": "Ghana",
     "officialName": "Ghana",
     "englishName": "Ghana",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇭",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2190,8 +2102,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Accra",
     "population": 33475870,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gh.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "gib",
@@ -2201,7 +2112,7 @@
     "countryName": "Gibraltar",
     "officialName": "Gibraltar",
     "englishName": "Gibraltar",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇮",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2210,8 +2121,7 @@
     "gdp": 2480000000,
     "gdpPerCapita": 75000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gi.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "grc",
@@ -2221,7 +2131,7 @@
     "countryName": "Greece",
     "officialName": "Greece",
     "englishName": "Greece",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2233,8 +2143,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Athens",
     "population": 10402440,
-    "stateForm": "Cộng Hòa Nghị Viện",
-    "flagSvgUrl": "https://flagcdn.com/w320/gr.svg"
+    "stateForm": "Cộng Hòa Nghị Viện"
   },
   {
     "id": "grl",
@@ -2244,7 +2153,7 @@
     "countryName": "Greenland",
     "officialName": "Greenland",
     "englishName": "Greenland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇱",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2253,8 +2162,7 @@
     "gdp": 2660000000,
     "gdpPerCapita": 58499,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gl.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "grd",
@@ -2264,7 +2172,7 @@
     "countryName": "Grenada",
     "officialName": "Grenada",
     "englishName": "Grenada",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2276,8 +2184,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Saint George's",
     "population": 121008,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/gd.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "glp",
@@ -2287,7 +2194,7 @@
     "countryName": "Guadeloupe",
     "officialName": "Guadeloupe",
     "englishName": "Guadeloupe",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇵",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2296,8 +2203,7 @@
     "gdp": 10310000000,
     "gdpPerCapita": 25500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gp.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "gum",
@@ -2307,7 +2213,7 @@
     "countryName": "Guam",
     "officialName": "Guam",
     "englishName": "Guam",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇺",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2316,8 +2222,7 @@
     "gdp": 7289000000,
     "gdpPerCapita": 41833,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gu.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "gtm",
@@ -2327,7 +2232,7 @@
     "countryName": "Guatemala",
     "officialName": "Guatemala",
     "englishName": "Guatemala",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇹",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2339,8 +2244,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Guatemala City",
     "population": 17608483,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/gt.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "ggy",
@@ -2350,7 +2254,7 @@
     "countryName": "Guernsey",
     "officialName": "Guernsey",
     "englishName": "Guernsey",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇬",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2359,8 +2263,7 @@
     "gdp": 4650000000,
     "gdpPerCapita": 60000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gg.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "gin",
@@ -2370,7 +2273,7 @@
     "countryName": "Guinea",
     "officialName": "Guinea",
     "englishName": "Guinea",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2382,8 +2285,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Conakry",
     "population": 13886359,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gn.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "gnb",
@@ -2393,7 +2295,7 @@
     "countryName": "Guinea-Bissau",
     "officialName": "Guinea-Bissau",
     "englishName": "Guinea-Bissau",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇼",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2405,8 +2307,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bissau",
     "population": 2105566,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "guy",
@@ -2416,7 +2317,7 @@
     "countryName": "Guyana",
     "officialName": "Guyana",
     "englishName": "Guyana",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2428,8 +2329,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Georgetown",
     "population": 806953,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/gy.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "hti",
@@ -2439,7 +2339,7 @@
     "countryName": "Haiti",
     "officialName": "Haiti",
     "englishName": "Haiti",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇹",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2451,8 +2351,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Port-au-Prince",
     "population": 11584996,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ht.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "hmd",
@@ -2462,15 +2361,14 @@
     "countryName": "Heard Island and McDonald Islands",
     "officialName": "Heard Island and McDonald Islands",
     "englishName": "Heard Island and McDonald Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/hm.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "vat",
@@ -2480,7 +2378,7 @@
     "countryName": "Holy See (Vatican City State)",
     "officialName": "Holy See (Vatican City State)",
     "englishName": "Holy See (Vatican City State)",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇦",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2489,8 +2387,7 @@
     "gdp": 390000000,
     "gdpPerCapita": 20000000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/va.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "hnd",
@@ -2500,7 +2397,7 @@
     "countryName": "Honduras",
     "officialName": "Honduras",
     "englishName": "Honduras",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2512,8 +2409,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tegucigalpa",
     "population": 10376792,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/hn.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "hkg",
@@ -2523,7 +2419,7 @@
     "countryName": "Hong Kong",
     "officialName": "Hong Kong",
     "englishName": "Hong Kong",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇰",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2532,8 +2428,7 @@
     "gdp": 406863000000,
     "gdpPerCapita": 54107,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/hk.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "hun",
@@ -2543,7 +2438,7 @@
     "countryName": "Hungary",
     "officialName": "Hungary",
     "englishName": "Hungary",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇭🇺",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2555,8 +2450,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Budapest",
     "population": 9689000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/hu.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "isl",
@@ -2566,7 +2460,7 @@
     "countryName": "Iceland",
     "officialName": "Iceland",
     "englishName": "Iceland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇸",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -2578,8 +2472,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Reykjavík",
     "population": 395000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/is.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ind",
@@ -2589,7 +2482,7 @@
     "countryName": "India",
     "officialName": "India",
     "englishName": "India",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2621,8 +2514,7 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "New Delhi",
-    "population": 1428627663,
-    "flagSvgUrl": "https://flagcdn.com/w320/in.svg"
+    "population": 1428627663
   },
   {
     "id": "idn",
@@ -2632,7 +2524,7 @@
     "countryName": "Indonesia",
     "officialName": "Indonesia",
     "englishName": "Indonesia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2644,8 +2536,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Jakarta",
     "population": 275501339,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/id.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "irn",
@@ -2655,7 +2546,7 @@
     "countryName": "Iran, Islamic Republic of",
     "officialName": "Iran, Islamic Republic of",
     "englishName": "Iran, Islamic Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2667,8 +2558,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tehran",
     "population": 90550570,
-    "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagSvgUrl": "https://flagcdn.com/w320/ir.svg"
+    "stateForm": "Cộng Hòa Hồi Giáo"
   },
   {
     "id": "irq",
@@ -2678,7 +2568,7 @@
     "countryName": "Iraq",
     "officialName": "Iraq",
     "englishName": "Iraq",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇶",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2690,8 +2580,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Baghdad",
     "population": 44496378,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/iq.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "irl",
@@ -2701,7 +2590,7 @@
     "countryName": "Ireland",
     "officialName": "Ireland",
     "englishName": "Ireland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇪",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -2713,8 +2602,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Dublin",
     "population": 5261389,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ie.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "imn",
@@ -2724,7 +2612,7 @@
     "countryName": "Isle of Man",
     "officialName": "Isle of Man",
     "englishName": "Isle of Man",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2733,8 +2621,7 @@
     "gdp": 6360000000,
     "gdpPerCapita": 88329,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/im.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "isr",
@@ -2744,7 +2631,7 @@
     "countryName": "Israel",
     "officialName": "Israel",
     "englishName": "Israel",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇱",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2756,8 +2643,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Jerusalem",
     "population": 9656000,
-    "stateForm": "Cộng Hòa Nghị Viện",
-    "flagSvgUrl": "https://flagcdn.com/w320/il.svg"
+    "stateForm": "Cộng Hòa Nghị Viện"
   },
   {
     "id": "ita",
@@ -2767,7 +2653,7 @@
     "countryName": "Italy",
     "officialName": "Italy",
     "englishName": "Italy",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇮🇹",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -2779,8 +2665,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Rome",
     "population": 57550339,
-    "stateForm": "Cộng Hòa Nghị Viện",
-    "flagSvgUrl": "https://flagcdn.com/w320/it.svg"
+    "stateForm": "Cộng Hòa Nghị Viện"
   },
   {
     "id": "civ",
@@ -2790,7 +2675,7 @@
     "countryName": "Côte d'Ivoire",
     "officialName": "Côte d'Ivoire",
     "englishName": "Côte d'Ivoire",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇮",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2802,8 +2687,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abidjan",
     "population": 28605696,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ci.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "jam",
@@ -2813,7 +2697,7 @@
     "countryName": "Jamaica",
     "officialName": "Jamaica",
     "englishName": "Jamaica",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇯🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2825,8 +2709,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kingston",
     "population": 2825544,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/jm.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "jpn",
@@ -2836,7 +2719,7 @@
     "countryName": "Japan",
     "officialName": "Japan",
     "englishName": "Japan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇯🇵",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -2867,8 +2750,7 @@
     "isMonarchy": true,
     "hasCommunistRulingParty": false,
     "capital": "Tokyo",
-    "population": 123294513,
-    "flagSvgUrl": "https://flagcdn.com/w320/jp.svg"
+    "population": 123294513
   },
   {
     "id": "jey",
@@ -2878,7 +2760,7 @@
     "countryName": "Jersey",
     "officialName": "Jersey",
     "englishName": "Jersey",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇯🇪",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2887,8 +2769,7 @@
     "gdp": 5670000000,
     "gdpPerCapita": 76000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/je.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "jor",
@@ -2898,7 +2779,7 @@
     "countryName": "Jordan",
     "officialName": "Jordan",
     "englishName": "Jordan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇯🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2910,8 +2791,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Amman",
     "population": 10203140,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/jo.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "kaz",
@@ -2921,7 +2801,7 @@
     "countryName": "Kazakhstan",
     "officialName": "Kazakhstan",
     "englishName": "Kazakhstan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2933,8 +2813,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nur-Sultan",
     "population": 20331000,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/kz.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "ken",
@@ -2944,7 +2823,7 @@
     "countryName": "Kenya",
     "officialName": "Kenya",
     "englishName": "Kenya",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -2956,8 +2835,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nairobi",
     "population": 54031487,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ke.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "kir",
@@ -2967,7 +2845,7 @@
     "countryName": "Kiribati",
     "officialName": "Kiribati",
     "englishName": "Kiribati",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇮",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -2979,8 +2857,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Tarawa",
     "population": 135182,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ki.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "xkx",
@@ -2990,7 +2867,7 @@
     "countryName": "Kosovo",
     "officialName": "Kosovo",
     "englishName": "Kosovo",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇽🇰",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -2999,8 +2876,7 @@
     "gdp": 22155000000,
     "gdpPerCapita": 7299,
     "governmentSystem": "Cộng Hòa Dân Chủ Bầu Cử Đa Đảng",
-    "economicModel": "Based on regime: Electoral democracy",
-    "flagSvgUrl": "https://flagcdn.com/w320/xk.svg"
+    "economicModel": "Based on regime: Electoral democracy"
   },
   {
     "id": "kwt",
@@ -3010,7 +2886,7 @@
     "countryName": "Kuwait",
     "officialName": "Kuwait",
     "englishName": "Kuwait",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇼",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3022,8 +2898,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Kuwait City",
     "population": 4328550,
-    "stateForm": "Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/kw.svg"
+    "stateForm": "Tiểu Vương Quốc"
   },
   {
     "id": "kgz",
@@ -3033,7 +2908,7 @@
     "countryName": "Kyrgyzstan",
     "officialName": "Kyrgyzstan",
     "englishName": "Kyrgyzstan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3045,8 +2920,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bishkek",
     "population": 6880400,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/kg.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "lao",
@@ -3056,7 +2930,7 @@
     "countryName": "Lao People's Democratic Republic",
     "officialName": "Lao People's Democratic Republic",
     "englishName": "Lao People's Democratic Republic",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇦",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -3068,8 +2942,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Vientiane",
     "population": 7529475,
-    "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
-    "flagSvgUrl": "https://flagcdn.com/w320/la.svg"
+    "stateForm": "Cộng Hòa Dân Chủ Nhân Dân"
   },
   {
     "id": "lva",
@@ -3079,7 +2952,7 @@
     "countryName": "Latvia",
     "officialName": "Latvia",
     "englishName": "Latvia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇻",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3091,8 +2964,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Riga",
     "population": 1862142,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/lv.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "lbn",
@@ -3102,7 +2974,7 @@
     "countryName": "Lebanon",
     "officialName": "Lebanon",
     "englishName": "Lebanon",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇧",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3114,8 +2986,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Beirut",
     "population": 5489000,
-    "stateForm": "Cộng Hòa Đại Nghị",
-    "flagSvgUrl": "https://flagcdn.com/w320/lb.svg"
+    "stateForm": "Cộng Hòa Đại Nghị"
   },
   {
     "id": "lso",
@@ -3125,7 +2996,7 @@
     "countryName": "Lesotho",
     "officialName": "Lesotho",
     "englishName": "Lesotho",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇸",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3137,8 +3008,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Maseru",
     "population": 2305825,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/ls.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "lbr",
@@ -3148,7 +3018,7 @@
     "countryName": "Liberia",
     "officialName": "Liberia",
     "englishName": "Liberia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇷",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3160,8 +3030,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Monrovia",
     "population": 5302681,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/lr.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "lby",
@@ -3171,7 +3040,7 @@
     "countryName": "Libya",
     "officialName": "Libya",
     "englishName": "Libya",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3183,8 +3052,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tripoli",
     "population": 6985361,
-    "stateForm": "Chính Quyền Chuyển Tiếp",
-    "flagSvgUrl": "https://flagcdn.com/w320/ly.svg"
+    "stateForm": "Chính Quyền Chuyển Tiếp"
   },
   {
     "id": "lie",
@@ -3194,7 +3062,7 @@
     "countryName": "Liechtenstein",
     "officialName": "Liechtenstein",
     "englishName": "Liechtenstein",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇮",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3206,8 +3074,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vaduz",
     "population": 39327,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/li.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "ltu",
@@ -3217,7 +3084,7 @@
     "countryName": "Lithuania",
     "officialName": "Lithuania",
     "englishName": "Lithuania",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇹",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3229,8 +3096,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vilnius",
     "population": 2801543,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/lt.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "lux",
@@ -3240,7 +3106,7 @@
     "countryName": "Luxembourg",
     "officialName": "Luxembourg",
     "englishName": "Luxembourg",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇺",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3252,8 +3118,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Luxembourg City",
     "population": 671557,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/lu.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "mac",
@@ -3263,7 +3128,7 @@
     "countryName": "Macao",
     "officialName": "Macao",
     "englishName": "Macao",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇴",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3272,8 +3137,7 @@
     "gdp": 49467000000,
     "gdpPerCapita": 73047,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/mo.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "mdg",
@@ -3283,7 +3147,7 @@
     "countryName": "Madagascar",
     "officialName": "Madagascar",
     "englishName": "Madagascar",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3294,8 +3158,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Antananarivo",
     "population": 29036900,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mg.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mwi",
@@ -3305,7 +3168,7 @@
     "countryName": "Malawi",
     "officialName": "Malawi",
     "englishName": "Malawi",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇼",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3316,8 +3179,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lilongwe",
     "population": 20849747,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mys",
@@ -3327,7 +3189,7 @@
     "countryName": "Malaysia",
     "officialName": "Malaysia",
     "englishName": "Malaysia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3339,8 +3201,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kuala Lumpur",
     "population": 34581600,
-    "stateForm": "Quân Chủ Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/my.svg"
+    "stateForm": "Quân Chủ Liên Bang"
   },
   {
     "id": "mdv",
@@ -3350,7 +3211,7 @@
     "countryName": "Maldives",
     "officialName": "Maldives",
     "englishName": "Maldives",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇻",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3361,8 +3222,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Malé",
     "population": 554994,
-    "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagSvgUrl": "https://flagcdn.com/w320/mv.svg"
+    "stateForm": "Cộng Hòa Hồi Giáo"
   },
   {
     "id": "mli",
@@ -3372,7 +3232,7 @@
     "countryName": "Mali",
     "officialName": "Mali",
     "englishName": "Mali",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇱",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3383,8 +3243,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bamako",
     "population": 24994873,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ml.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mlt",
@@ -3394,7 +3253,7 @@
     "countryName": "Malta",
     "officialName": "Malta",
     "englishName": "Malta",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇹",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3406,8 +3265,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Valletta",
     "population": 543516,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mt.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mhl",
@@ -3417,7 +3275,7 @@
     "countryName": "Marshall Islands",
     "officialName": "Marshall Islands",
     "englishName": "Marshall Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇭",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3429,8 +3287,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Majuro",
     "population": 42050,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mh.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mtq",
@@ -3440,7 +3297,7 @@
     "countryName": "Martinique",
     "officialName": "Martinique",
     "englishName": "Martinique",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇶",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3449,8 +3306,7 @@
     "gdp": 11320000000,
     "gdpPerCapita": 30000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/mq.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "mrt",
@@ -3460,7 +3316,7 @@
     "countryName": "Mauritania",
     "officialName": "Mauritania",
     "englishName": "Mauritania",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3472,8 +3328,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nouakchott",
     "population": 5000000,
-    "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagSvgUrl": "https://flagcdn.com/w320/mr.svg"
+    "stateForm": "Cộng Hòa Hồi Giáo"
   },
   {
     "id": "mus",
@@ -3483,7 +3338,7 @@
     "countryName": "Mauritius",
     "officialName": "Mauritius",
     "englishName": "Mauritius",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇺",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3495,8 +3350,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port Louis",
     "population": 1299624,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mu.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "myt",
@@ -3506,7 +3360,7 @@
     "countryName": "Mayotte",
     "officialName": "Mayotte",
     "englishName": "Mayotte",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇾🇹",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3515,8 +3369,7 @@
     "gdp": 3550000000,
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/yt.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "mex",
@@ -3526,7 +3379,7 @@
     "countryName": "Mexico",
     "officialName": "Mexico",
     "englishName": "Mexico",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇽",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3538,8 +3391,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Mexico City",
     "population": 128932753,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/mx.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "mda",
@@ -3549,7 +3401,7 @@
     "countryName": "Moldova, Republic of",
     "officialName": "Moldova, Republic of",
     "englishName": "Moldova, Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3561,8 +3413,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Chișinău",
     "population": 3645212,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/md.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mco",
@@ -3572,7 +3423,7 @@
     "countryName": "Monaco",
     "officialName": "Monaco",
     "englishName": "Monaco",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇨",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3584,8 +3435,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Monaco",
     "population": 36469,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/mc.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "mng",
@@ -3595,7 +3445,7 @@
     "countryName": "Mongolia",
     "officialName": "Mongolia",
     "englishName": "Mongolia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3607,8 +3457,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Ulaanbaatar",
     "population": 3418100,
-    "stateForm": "Cộng Hòa Nghị Viện",
-    "flagSvgUrl": "https://flagcdn.com/w320/mn.svg"
+    "stateForm": "Cộng Hòa Nghị Viện"
   },
   {
     "id": "mne",
@@ -3618,7 +3467,7 @@
     "countryName": "Montenegro",
     "officialName": "Montenegro",
     "englishName": "Montenegro",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3629,8 +3478,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Podgorica",
     "population": 616695,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/me.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "msr",
@@ -3640,7 +3488,7 @@
     "countryName": "Montserrat",
     "officialName": "Montserrat",
     "englishName": "Montserrat",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇸",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3648,8 +3496,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 18451,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ms.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "mar",
@@ -3659,7 +3506,7 @@
     "countryName": "Morocco",
     "officialName": "Morocco",
     "englishName": "Morocco",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3670,8 +3517,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Rabat",
     "population": 37744000,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/ma.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "moz",
@@ -3681,7 +3527,7 @@
     "countryName": "Mozambique",
     "officialName": "Mozambique",
     "englishName": "Mozambique",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3693,8 +3539,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Maputo",
     "population": 35666677,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mz.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mmr",
@@ -3704,7 +3549,7 @@
     "countryName": "Myanmar",
     "officialName": "Myanmar",
     "englishName": "Myanmar",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3716,8 +3561,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Naypyidaw",
     "population": 54409800,
-    "stateForm": "Nhà Nước Chuyển Tiếp",
-    "flagSvgUrl": "https://flagcdn.com/w320/mm.svg"
+    "stateForm": "Nhà Nước Chuyển Tiếp"
   },
   {
     "id": "nam",
@@ -3727,7 +3571,7 @@
     "countryName": "Namibia",
     "officialName": "Namibia",
     "englishName": "Namibia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3739,8 +3583,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Windhoek",
     "population": 2540905,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/na.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "nru",
@@ -3750,7 +3593,7 @@
     "countryName": "Nauru",
     "officialName": "Nauru",
     "englishName": "Nauru",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇷",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3762,8 +3605,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Yaren",
     "population": 10900,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/nr.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "npl",
@@ -3773,7 +3615,7 @@
     "countryName": "Nepal",
     "officialName": "Nepal",
     "englishName": "Nepal",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇵",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -3785,8 +3627,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kathmandu",
     "population": 30547580,
-    "stateForm": "Cộng Hòa Dân Chủ Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/np.svg"
+    "stateForm": "Cộng Hòa Dân Chủ Liên Bang"
   },
   {
     "id": "nld",
@@ -3796,7 +3637,7 @@
     "countryName": "Netherlands",
     "officialName": "Netherlands",
     "englishName": "Netherlands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇱",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3808,8 +3649,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Amsterdam",
     "population": 17590672,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/nl.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "ncl",
@@ -3819,7 +3659,7 @@
     "countryName": "New Caledonia",
     "officialName": "New Caledonia",
     "englishName": "New Caledonia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇨",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3827,8 +3667,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 33516,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/nc.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "nzl",
@@ -3838,7 +3677,7 @@
     "countryName": "New Zealand",
     "officialName": "New Zealand",
     "englishName": "New Zealand",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇿",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -3850,8 +3689,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Wellington",
     "population": 5150000,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/nz.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "nic",
@@ -3861,7 +3699,7 @@
     "countryName": "Nicaragua",
     "officialName": "Nicaragua",
     "englishName": "Nicaragua",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇮",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3872,8 +3710,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Managua",
     "population": 7142099,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ni.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ner",
@@ -3883,7 +3720,7 @@
     "countryName": "Niger",
     "officialName": "Niger",
     "englishName": "Niger",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3894,8 +3731,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Niamey",
     "population": 28940721,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ne.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "nga",
@@ -3905,7 +3741,7 @@
     "countryName": "Nigeria",
     "officialName": "Nigeria",
     "englishName": "Nigeria",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -3916,8 +3752,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abuja",
     "population": 223804632,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ng.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "niu",
@@ -3927,7 +3762,7 @@
     "countryName": "Niue",
     "officialName": "Niue",
     "englishName": "Niue",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇺",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -3936,8 +3771,7 @@
     "gdp": 367000000,
     "gdpPerCapita": 22000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/nu.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "nfk",
@@ -3947,15 +3781,14 @@
     "countryName": "Norfolk Island",
     "officialName": "Norfolk Island",
     "englishName": "Norfolk Island",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/nf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "prk",
@@ -3965,7 +3798,7 @@
     "countryName": "Korea, Democratic People's Republic of",
     "officialName": "Korea, Democratic People's Republic of",
     "englishName": "Korea, Democratic People's Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇵",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -3977,8 +3810,7 @@
     "capital": "Pyongyang",
     "population": 26500000,
     "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
-    "officialIdeology": "Juche",
-    "flagSvgUrl": "https://flagcdn.com/w320/kp.svg"
+    "officialIdeology": "Juche"
   },
   {
     "id": "mkd",
@@ -3988,7 +3820,7 @@
     "countryName": "North Macedonia",
     "officialName": "North Macedonia",
     "englishName": "North Macedonia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇰",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4000,8 +3832,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Skopje",
     "population": 2085051,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/mk.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "mnp",
@@ -4011,7 +3842,7 @@
     "countryName": "Northern Mariana Islands",
     "officialName": "Northern Mariana Islands",
     "englishName": "Northern Mariana Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇵",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4020,8 +3851,7 @@
     "gdp": 1300000000,
     "gdpPerCapita": 23786,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/mp.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "nor",
@@ -4031,7 +3861,7 @@
     "countryName": "Norway",
     "officialName": "Norway",
     "englishName": "Norway",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇳🇴",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4043,8 +3873,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Oslo",
     "population": 5379475,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/no.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "omn",
@@ -4054,7 +3883,7 @@
     "countryName": "Oman",
     "officialName": "Oman",
     "englishName": "Oman",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇴🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4066,8 +3895,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Muscat",
     "population": 4975992,
-    "stateForm": "Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/om.svg"
+    "stateForm": "Tiểu Vương Quốc"
   },
   {
     "id": "pak",
@@ -4077,7 +3905,7 @@
     "countryName": "Pakistan",
     "officialName": "Pakistan",
     "englishName": "Pakistan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇰",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4088,8 +3916,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Islamabad",
     "population": 240485658,
-    "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagSvgUrl": "https://flagcdn.com/w320/pk.svg"
+    "stateForm": "Cộng Hòa Hồi Giáo"
   },
   {
     "id": "plw",
@@ -4099,7 +3926,7 @@
     "countryName": "Palau",
     "officialName": "Palau",
     "englishName": "Palau",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇼",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4111,8 +3938,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Ngerulmud",
     "population": 18024,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/pw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "pse",
@@ -4122,15 +3948,14 @@
     "countryName": "Palestine, State of",
     "officialName": "Palestine, State of",
     "englishName": "Palestine, State of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇸",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ps.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "pan",
@@ -4140,7 +3965,7 @@
     "countryName": "Panama",
     "officialName": "Panama",
     "englishName": "Panama",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4152,8 +3977,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Panama City",
     "population": 4480000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/pa.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "png",
@@ -4163,7 +3987,7 @@
     "countryName": "Papua New Guinea",
     "officialName": "Papua New Guinea",
     "englishName": "Papua New Guinea",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4174,8 +3998,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port Moresby",
     "population": 10142619,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/pg.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "pry",
@@ -4185,7 +4008,7 @@
     "countryName": "Paraguay",
     "officialName": "Paraguay",
     "englishName": "Paraguay",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇾",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4197,8 +4020,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Asunción",
     "population": 6920667,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/py.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "per",
@@ -4208,7 +4030,7 @@
     "countryName": "Peru",
     "officialName": "Peru",
     "englishName": "Peru",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4220,8 +4042,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lima",
     "population": 35290000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/pe.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "phl",
@@ -4231,7 +4052,7 @@
     "countryName": "Philippines",
     "officialName": "Philippines",
     "englishName": "Philippines",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇭",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4242,8 +4063,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Manila",
     "population": 120493701,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/ph.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "pcn",
@@ -4253,15 +4073,14 @@
     "countryName": "Pitcairn",
     "officialName": "Pitcairn",
     "englishName": "Pitcairn",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇳",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/pn.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "pol",
@@ -4271,7 +4090,7 @@
     "countryName": "Poland",
     "officialName": "Poland",
     "englishName": "Poland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇱",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4283,8 +4102,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Warsaw",
     "population": 37664000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/pl.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "prt",
@@ -4294,7 +4112,7 @@
     "countryName": "Portugal",
     "officialName": "Portugal",
     "englishName": "Portugal",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇹",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4306,8 +4124,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Lisbon",
     "population": 10642836,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/pt.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "pri",
@@ -4317,7 +4134,7 @@
     "countryName": "Puerto Rico",
     "officialName": "Puerto Rico",
     "englishName": "Puerto Rico",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇷",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4326,8 +4143,7 @@
     "gdp": 126030000000,
     "gdpPerCapita": 39285,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/pr.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "qat",
@@ -4337,7 +4153,7 @@
     "countryName": "Qatar",
     "officialName": "Qatar",
     "englishName": "Qatar",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇶🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4349,8 +4165,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Doha",
     "population": 3103500,
-    "stateForm": "Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/qa.svg"
+    "stateForm": "Tiểu Vương Quốc"
   },
   {
     "id": "cog",
@@ -4360,7 +4175,7 @@
     "countryName": "Congo",
     "officialName": "Congo",
     "englishName": "Congo",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4370,8 +4185,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Brazzaville",
     "population": 6108869,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/cg.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "rou",
@@ -4381,7 +4195,7 @@
     "countryName": "Romania",
     "officialName": "Romania",
     "englishName": "Romania",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇷🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4393,8 +4207,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bucharest",
     "population": 19120825,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ro.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "rwa",
@@ -4404,7 +4217,7 @@
     "countryName": "Rwanda",
     "officialName": "Rwanda",
     "englishName": "Rwanda",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇷🇼",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4415,8 +4228,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kigali",
     "population": 14600000,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/rw.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "reu",
@@ -4426,15 +4238,14 @@
     "countryName": "Réunion",
     "officialName": "Réunion",
     "englishName": "Réunion",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇷🇪",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/re.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "blm",
@@ -4444,15 +4255,14 @@
     "countryName": "Saint Barthélemy",
     "officialName": "Saint Barthélemy",
     "englishName": "Saint Barthélemy",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇧🇱",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/bl.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "shn",
@@ -4462,15 +4272,14 @@
     "countryName": "Saint Helena, Ascension and Tristan da Cunha",
     "officialName": "Saint Helena, Ascension and Tristan da Cunha",
     "englishName": "Saint Helena, Ascension and Tristan da Cunha",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇭",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/sh.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "kna",
@@ -4480,7 +4289,7 @@
     "countryName": "Saint Kitts and Nevis",
     "officialName": "Saint Kitts and Nevis",
     "englishName": "Saint Kitts and Nevis",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4492,8 +4301,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Basseterre",
     "population": 46583,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/kn.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "lca",
@@ -4503,7 +4311,7 @@
     "countryName": "Saint Lucia",
     "officialName": "Saint Lucia",
     "englishName": "Saint Lucia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇨",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4515,8 +4323,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Castries",
     "population": 181889,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/lc.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "maf",
@@ -4526,7 +4333,7 @@
     "countryName": "Saint Martin (French part)",
     "officialName": "Saint Martin (French part)",
     "englishName": "Saint Martin (French part)",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇲🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4534,8 +4341,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 21668,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/mf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "spm",
@@ -4545,7 +4351,7 @@
     "countryName": "Saint Pierre and Miquelon",
     "officialName": "Saint Pierre and Miquelon",
     "englishName": "Saint Pierre and Miquelon",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇵🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4554,8 +4360,7 @@
     "gdp": 330000000,
     "gdpPerCapita": 10000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/pm.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "vct",
@@ -4565,7 +4370,7 @@
     "countryName": "Saint Vincent and the Grenadines",
     "officialName": "Saint Vincent and the Grenadines",
     "englishName": "Saint Vincent and the Grenadines",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇨",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4577,8 +4382,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kingstown",
     "population": 100982,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/vc.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "wsm",
@@ -4588,7 +4392,7 @@
     "countryName": "Samoa",
     "officialName": "Samoa",
     "englishName": "Samoa",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇼🇸",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4600,8 +4404,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Apia",
     "population": 198670,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ws.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "smr",
@@ -4611,7 +4414,7 @@
     "countryName": "San Marino",
     "officialName": "San Marino",
     "englishName": "San Marino",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇲",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4623,8 +4426,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "City of San Marino",
     "population": 34660,
-    "stateForm": "Cộng Hòa Đặc Lập",
-    "flagSvgUrl": "https://flagcdn.com/w320/sm.svg"
+    "stateForm": "Cộng Hòa Đặc Lập"
   },
   {
     "id": "stp",
@@ -4634,7 +4436,7 @@
     "countryName": "Sao Tome and Principe",
     "officialName": "Sao Tome and Principe",
     "englishName": "Sao Tome and Principe",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇹",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4646,8 +4448,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "São Tomé",
     "population": 230000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/st.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "sau",
@@ -4657,7 +4458,7 @@
     "countryName": "Saudi Arabia",
     "officialName": "Saudi Arabia",
     "englishName": "Saudi Arabia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇦",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -4669,8 +4470,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Riyadh",
     "population": 37200000,
-    "stateForm": "Quân Chủ Tuyệt Đối",
-    "flagSvgUrl": "https://flagcdn.com/w320/sa.svg"
+    "stateForm": "Quân Chủ Tuyệt Đối"
   },
   {
     "id": "sen",
@@ -4680,7 +4480,7 @@
     "countryName": "Senegal",
     "officialName": "Senegal",
     "englishName": "Senegal",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4692,8 +4492,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Dakar",
     "population": 17589198,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sn.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "srb",
@@ -4703,7 +4502,7 @@
     "countryName": "Serbia",
     "officialName": "Serbia",
     "englishName": "Serbia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇷🇸",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4715,8 +4514,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Belgrade",
     "population": 6644449,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/rs.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "syc",
@@ -4726,7 +4524,7 @@
     "countryName": "Seychelles",
     "officialName": "Seychelles",
     "englishName": "Seychelles",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇨",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4737,8 +4535,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Victoria",
     "population": 100388,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sc.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "sle",
@@ -4748,7 +4545,7 @@
     "countryName": "Sierra Leone",
     "officialName": "Sierra Leone",
     "englishName": "Sierra Leone",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇱",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4760,8 +4557,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Freetown",
     "population": 8605718,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sl.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "sgp",
@@ -4771,7 +4567,7 @@
     "countryName": "Singapore",
     "officialName": "Singapore",
     "englishName": "Singapore",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4783,8 +4579,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Singapore",
     "population": 5917600,
-    "stateForm": "Cộng Hòa Nhị Nguyên",
-    "flagSvgUrl": "https://flagcdn.com/w320/sg.svg"
+    "stateForm": "Cộng Hòa Nhị Nguyên"
   },
   {
     "id": "sxm",
@@ -4794,7 +4589,7 @@
     "countryName": "Sint Maarten (Dutch part)",
     "officialName": "Sint Maarten (Dutch part)",
     "englishName": "Sint Maarten (Dutch part)",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇽",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4802,8 +4597,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 40028,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/sx.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "svk",
@@ -4813,7 +4607,7 @@
     "countryName": "Slovakia",
     "officialName": "Slovakia",
     "englishName": "Slovakia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇰",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4825,8 +4619,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Bratislava",
     "population": 5458827,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sk.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "svn",
@@ -4836,7 +4629,7 @@
     "countryName": "Slovenia",
     "officialName": "Slovenia",
     "englishName": "Slovenia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇮",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4848,8 +4641,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Ljubljana",
     "population": 2108000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/si.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "slb",
@@ -4859,7 +4651,7 @@
     "countryName": "Solomon Islands",
     "officialName": "Solomon Islands",
     "englishName": "Solomon Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇧",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -4871,8 +4663,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Honiara",
     "population": 703996,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/sb.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "som",
@@ -4882,7 +4673,7 @@
     "countryName": "Somalia",
     "officialName": "Somalia",
     "englishName": "Somalia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇴",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4894,8 +4685,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Mogadishu",
     "population": 17065000,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/so.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "zaf",
@@ -4905,7 +4695,7 @@
     "countryName": "South Africa",
     "officialName": "South Africa",
     "englishName": "South Africa",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇿🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -4917,8 +4707,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Pretoria",
     "population": 60142978,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/za.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "sgs",
@@ -4928,15 +4717,14 @@
     "countryName": "South Georgia and the South Sandwich Islands",
     "officialName": "South Georgia and the South Sandwich Islands",
     "englishName": "South Georgia and the South Sandwich Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇬🇸",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/gs.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "kor",
@@ -4946,7 +4734,7 @@
     "countryName": "Korea, Republic of",
     "officialName": "Korea, Republic of",
     "englishName": "Korea, Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇰🇷",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -4958,8 +4746,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Seoul",
     "population": 51316195,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/kr.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "ssd",
@@ -4969,7 +4756,7 @@
     "countryName": "South Sudan",
     "officialName": "South Sudan",
     "englishName": "South Sudan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇸",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -4981,8 +4768,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Juba",
     "population": 11381378,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ss.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "esp",
@@ -4992,7 +4778,7 @@
     "countryName": "Spain",
     "officialName": "Spain",
     "englishName": "Spain",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇸",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -5004,8 +4790,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Madrid",
     "population": 47615034,
-    "stateForm": "Quân Chủ Lập Hiến",
-    "flagSvgUrl": "https://flagcdn.com/w320/es.svg"
+    "stateForm": "Quân Chủ Lập Hiến"
   },
   {
     "id": "lka",
@@ -5015,7 +4800,7 @@
     "countryName": "Sri Lanka",
     "officialName": "Sri Lanka",
     "englishName": "Sri Lanka",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇱🇰",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5027,8 +4812,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Colombo",
     "population": 21893579,
-    "stateForm": "Cộng Hòa Dân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/lk.svg"
+    "stateForm": "Cộng Hòa Dân Chủ"
   },
   {
     "id": "sdn",
@@ -5038,7 +4822,7 @@
     "countryName": "Sudan",
     "officialName": "Sudan",
     "englishName": "Sudan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇩",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5050,8 +4834,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Khartoum",
     "population": 44909353,
-    "stateForm": "Cộng Hòa Chuyển Tiếp",
-    "flagSvgUrl": "https://flagcdn.com/w320/sd.svg"
+    "stateForm": "Cộng Hòa Chuyển Tiếp"
   },
   {
     "id": "sur",
@@ -5061,7 +4844,7 @@
     "countryName": "Suriname",
     "officialName": "Suriname",
     "englishName": "Suriname",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5073,8 +4856,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Paramaribo",
     "population": 612781,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/sr.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "sjm",
@@ -5084,15 +4866,14 @@
     "countryName": "Svalbard and Jan Mayen",
     "officialName": "Svalbard and Jan Mayen",
     "englishName": "Svalbard and Jan Mayen",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇯",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/sj.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "che",
@@ -5102,7 +4883,7 @@
     "countryName": "Switzerland",
     "officialName": "Switzerland",
     "englishName": "Switzerland",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇨🇭",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -5114,8 +4895,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Bern",
     "population": 8776000,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ch.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "syr",
@@ -5125,7 +4905,7 @@
     "countryName": "Syrian Arab Republic",
     "officialName": "Syrian Arab Republic",
     "englishName": "Syrian Arab Republic",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇸🇾",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -5136,8 +4916,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Damascus",
     "population": 24504000,
-    "stateForm": "Cộng Hòa Ả Rập",
-    "flagSvgUrl": "https://flagcdn.com/w320/sy.svg"
+    "stateForm": "Cộng Hòa Ả Rập"
   },
   {
     "id": "twn",
@@ -5147,7 +4926,7 @@
     "countryName": "Taiwan, Province of China",
     "officialName": "Taiwan, Province of China",
     "englishName": "Taiwan, Province of China",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇼",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -5159,8 +4938,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Taipei",
     "population": 23968105,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tjk",
@@ -5170,7 +4948,7 @@
     "countryName": "Tajikistan",
     "officialName": "Tajikistan",
     "englishName": "Tajikistan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇯",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5182,8 +4960,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dushanbe",
     "population": 9952000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tj.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tza",
@@ -5193,7 +4970,7 @@
     "countryName": "Tanzania, United Republic of",
     "officialName": "Tanzania, United Republic of",
     "englishName": "Tanzania, United Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5204,8 +4981,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dodoma",
     "population": 61498437,
-    "stateForm": "Cộng Hòa Liên Hợp",
-    "flagSvgUrl": "https://flagcdn.com/w320/tz.svg"
+    "stateForm": "Cộng Hòa Liên Hợp"
   },
   {
     "id": "tha",
@@ -5215,7 +4991,7 @@
     "countryName": "Thailand",
     "officialName": "Thailand",
     "englishName": "Thailand",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇭",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5227,8 +5003,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bangkok",
     "population": 73183122,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/th.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "tls",
@@ -5238,7 +5013,7 @@
     "countryName": "Timor-Leste",
     "officialName": "Timor-Leste",
     "englishName": "Timor-Leste",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇱",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5250,8 +5025,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Dili",
     "population": 1318445,
-    "stateForm": "Cộng Hòa Dân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/tl.svg"
+    "stateForm": "Cộng Hòa Dân Chủ"
   },
   {
     "id": "tgo",
@@ -5261,7 +5035,7 @@
     "countryName": "Togo",
     "officialName": "Togo",
     "englishName": "Togo",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5273,8 +5047,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Lomé",
     "population": 9053000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tg.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tkl",
@@ -5284,15 +5057,14 @@
     "countryName": "Tokelau",
     "officialName": "Tokelau",
     "englishName": "Tokelau",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇰",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/tk.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "ton",
@@ -5302,7 +5074,7 @@
     "countryName": "Tonga",
     "officialName": "Tonga",
     "englishName": "Tonga",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇴",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5314,8 +5086,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Nuku'alofa",
     "population": 100651,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/to.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "tto",
@@ -5325,7 +5096,7 @@
     "countryName": "Trinidad and Tobago",
     "officialName": "Trinidad and Tobago",
     "englishName": "Trinidad and Tobago",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇹",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5337,8 +5108,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port of Spain",
     "population": 1525663,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tt.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tun",
@@ -5348,7 +5118,7 @@
     "countryName": "Tunisia",
     "officialName": "Tunisia",
     "englishName": "Tunisia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇳",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5360,8 +5130,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tunis",
     "population": 12676775,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tn.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tur",
@@ -5371,7 +5140,7 @@
     "countryName": "Türkiye",
     "officialName": "Türkiye",
     "englishName": "Türkiye",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇷",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5383,8 +5152,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Ankara",
     "population": 85326000,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/tr.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "tkm",
@@ -5394,7 +5162,7 @@
     "countryName": "Turkmenistan",
     "officialName": "Turkmenistan",
     "englishName": "Turkmenistan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇲",
     "region": "Unknown",
     "regimeCategory": "Closed autocracy",
     "sources": [],
@@ -5406,8 +5174,7 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Ashgabat",
     "population": 6361000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/tm.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "tca",
@@ -5417,7 +5184,7 @@
     "countryName": "Turks and Caicos Islands",
     "officialName": "Turks and Caicos Islands",
     "englishName": "Turks and Caicos Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇨",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5426,8 +5193,7 @@
     "gdp": 1870000000,
     "gdpPerCapita": 30349,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/tc.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "tuv",
@@ -5437,7 +5203,7 @@
     "countryName": "Tuvalu",
     "officialName": "Tuvalu",
     "englishName": "Tuvalu",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇹🇻",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5449,8 +5215,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Funafuti",
     "population": 12373,
-    "stateForm": "Quân Chủ",
-    "flagSvgUrl": "https://flagcdn.com/w320/tv.svg"
+    "stateForm": "Quân Chủ"
   },
   {
     "id": "vir",
@@ -5460,7 +5225,7 @@
     "countryName": "Virgin Islands, U.S.",
     "officialName": "Virgin Islands, U.S.",
     "englishName": "Virgin Islands, U.S.",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇮",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5468,8 +5233,7 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 44321,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/vi.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "uga",
@@ -5479,7 +5243,7 @@
     "countryName": "Uganda",
     "officialName": "Uganda",
     "englishName": "Uganda",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇺🇬",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5491,8 +5255,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kampala",
     "population": 48855393,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ug.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ukr",
@@ -5502,7 +5265,7 @@
     "countryName": "Ukraine",
     "officialName": "Ukraine",
     "englishName": "Ukraine",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇺🇦",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5514,8 +5277,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kyiv",
     "population": 38000000,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ua.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "are",
@@ -5525,7 +5287,7 @@
     "countryName": "United Arab Emirates",
     "officialName": "United Arab Emirates",
     "englishName": "United Arab Emirates",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5537,8 +5299,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abu Dhabi",
     "population": 9890400,
-    "stateForm": "Liên Minh Tiểu Vương Quốc",
-    "flagSvgUrl": "https://flagcdn.com/w320/ae.svg"
+    "stateForm": "Liên Minh Tiểu Vương Quốc"
   },
   {
     "id": "umi",
@@ -5548,15 +5309,14 @@
     "countryName": "United States Minor Outlying Islands",
     "officialName": "United States Minor Outlying Islands",
     "englishName": "United States Minor Outlying Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇺🇲",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/um.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "ury",
@@ -5566,7 +5326,7 @@
     "countryName": "Uruguay",
     "officialName": "Uruguay",
     "englishName": "Uruguay",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇺🇾",
     "region": "Unknown",
     "regimeCategory": "Liberal democracy",
     "sources": [],
@@ -5578,8 +5338,7 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Montevideo",
     "population": 3357620,
-    "stateForm": "Cộng Hòa Tổng Thống",
-    "flagSvgUrl": "https://flagcdn.com/w320/uy.svg"
+    "stateForm": "Cộng Hòa Tổng Thống"
   },
   {
     "id": "uzb",
@@ -5589,7 +5348,7 @@
     "countryName": "Uzbekistan",
     "officialName": "Uzbekistan",
     "englishName": "Uzbekistan",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇺🇿",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5601,8 +5360,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tashkent",
     "population": 34232100,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/uz.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "vut",
@@ -5612,7 +5370,7 @@
     "countryName": "Vanuatu",
     "officialName": "Vanuatu",
     "englishName": "Vanuatu",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇺",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5624,8 +5382,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Port Vila",
     "population": 321099,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/vu.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ven",
@@ -5635,7 +5392,7 @@
     "countryName": "Venezuela, Bolivarian Republic of",
     "officialName": "Venezuela, Bolivarian Republic of",
     "englishName": "Venezuela, Bolivarian Republic of",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇻🇪",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5646,8 +5403,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Caracas",
     "population": 28301696,
-    "stateForm": "Cộng Hòa Liên Bang",
-    "flagSvgUrl": "https://flagcdn.com/w320/ve.svg"
+    "stateForm": "Cộng Hòa Liên Bang"
   },
   {
     "id": "wlf",
@@ -5657,7 +5413,7 @@
     "countryName": "Wallis and Futuna",
     "officialName": "Wallis and Futuna",
     "englishName": "Wallis and Futuna",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇼🇫",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5666,8 +5422,7 @@
     "gdp": 263000000,
     "gdpPerCapita": 9500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/wf.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "esh",
@@ -5677,7 +5432,7 @@
     "countryName": "Western Sahara",
     "officialName": "Western Sahara",
     "englishName": "Western Sahara",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇪🇭",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5686,8 +5441,7 @@
     "gdp": 2700000000,
     "gdpPerCapita": 500,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/eh.svg"
+    "economicModel": "Based on regime: Unknown"
   },
   {
     "id": "yem",
@@ -5697,7 +5451,7 @@
     "countryName": "Yemen",
     "officialName": "Yemen",
     "englishName": "Yemen",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇾🇪",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
@@ -5709,8 +5463,7 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Sana'a",
     "population": 36408629,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/ye.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "zmb",
@@ -5720,7 +5473,7 @@
     "countryName": "Zambia",
     "officialName": "Zambia",
     "englishName": "Zambia",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇿🇲",
     "region": "Unknown",
     "regimeCategory": "Electoral democracy",
     "sources": [],
@@ -5732,8 +5485,7 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lusaka",
     "population": 19473125,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/zm.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "zwe",
@@ -5743,7 +5495,7 @@
     "countryName": "Zimbabwe",
     "officialName": "Zimbabwe",
     "englishName": "Zimbabwe",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇿🇼",
     "region": "Unknown",
     "regimeCategory": "Electoral autocracy",
     "sources": [],
@@ -5755,8 +5507,7 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Harare",
     "population": 16665409,
-    "stateForm": "Cộng Hòa",
-    "flagSvgUrl": "https://flagcdn.com/w320/zw.svg"
+    "stateForm": "Cộng Hòa"
   },
   {
     "id": "ala",
@@ -5766,14 +5517,13 @@
     "countryName": "Åland Islands",
     "officialName": "Åland Islands",
     "englishName": "Åland Islands",
-    "flagEmoji": "🏳️",
+    "flagEmoji": "🇦🇽",
     "region": "Unknown",
     "regimeCategory": "Unknown",
     "sources": [],
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown",
-    "flagSvgUrl": "https://flagcdn.com/w320/ax.svg"
+    "economicModel": "Based on regime: Unknown"
   }
 ]
