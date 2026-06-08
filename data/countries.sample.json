@@ -51,7 +51,8 @@
     "hasCommunistRulingParty": true,
     "capital": "Hanoi",
     "population": 98186856,
-    "officialIdeology": "Chủ Nghĩa Xã Hội"
+    "officialIdeology": "Chủ Nghĩa Xã Hội",
+    "flagUrl": "https://countryflagsapi.com/png/vn"
   },
   {
     "id": "ru",
@@ -106,7 +107,8 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Moscow",
-    "population": 144714314
+    "population": 144714314,
+    "flagUrl": "https://countryflagsapi.com/png/ru"
   },
   {
     "id": "us",
@@ -163,7 +165,8 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Washington D.C.",
-    "population": 338289857
+    "population": 338289857,
+    "flagUrl": "https://countryflagsapi.com/png/us"
   },
   {
     "id": "cn",
@@ -218,7 +221,8 @@
     "hasCommunistRulingParty": true,
     "capital": "Beijing",
     "population": 1425887337,
-    "officialIdeology": "Chủ Nghĩa Xã Hội Marxist-Leninist"
+    "officialIdeology": "Chủ Nghĩa Xã Hội Marxist-Leninist",
+    "flagUrl": "https://countryflagsapi.com/png/cn"
   },
   {
     "id": "gb",
@@ -268,7 +272,8 @@
     "isMonarchy": true,
     "hasCommunistRulingParty": false,
     "capital": "London",
-    "population": 68138000
+    "population": 68138000,
+    "flagUrl": "https://countryflagsapi.com/png/gb"
   },
   {
     "id": "se",
@@ -300,7 +305,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Stockholm",
     "population": 10520575,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/se"
   },
   {
     "id": "cu",
@@ -333,7 +339,8 @@
     "capital": "Havana",
     "population": 10987317,
     "stateForm": "Cộng Hòa Xã Hội Chủ Nghĩa",
-    "officialIdeology": "Chủ Nghĩa Xã Hội"
+    "officialIdeology": "Chủ Nghĩa Xã Hội",
+    "flagUrl": "https://countryflagsapi.com/png/cu"
   },
   {
     "id": "afg",
@@ -355,7 +362,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kabul",
     "population": 40218000,
-    "stateForm": "Cộng Hòa/Chế Độ Bầu Cử"
+    "stateForm": "Cộng Hòa/Chế Độ Bầu Cử",
+    "flagUrl": "https://countryflagsapi.com/png/af"
   },
   {
     "id": "alb",
@@ -377,7 +385,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tirana",
     "population": 2877800,
-    "stateForm": "Cộng Hòa Dân Chủ"
+    "stateForm": "Cộng Hòa Dân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/al"
   },
   {
     "id": "dza",
@@ -399,7 +408,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Algiers",
     "population": 44903225,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/dz"
   },
   {
     "id": "asm",
@@ -418,7 +428,8 @@
     "gdp": 797000000,
     "gdpPerCapita": 18018,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/as"
   },
   {
     "id": "and",
@@ -440,7 +451,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Andorra la Vella",
     "population": 77543,
-    "stateForm": "Đồng Thể Tập"
+    "stateForm": "Đồng Thể Tập",
+    "flagUrl": "https://countryflagsapi.com/png/ad"
   },
   {
     "id": "ago",
@@ -462,7 +474,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Luanda",
     "population": 35588987,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ao"
   },
   {
     "id": "aia",
@@ -481,7 +494,8 @@
     "gdp": 282000000,
     "gdpPerCapita": 31269,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ai"
   },
   {
     "id": "ata",
@@ -498,7 +512,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/aq"
   },
   {
     "id": "atg",
@@ -520,7 +535,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Saint John's",
     "population": 97118,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/ag"
   },
   {
     "id": "arg",
@@ -542,7 +558,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Buenos Aires",
     "population": 46233344,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ar"
   },
   {
     "id": "arm",
@@ -564,7 +581,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Yerevan",
     "population": 2963234,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/am"
   },
   {
     "id": "abw",
@@ -583,7 +601,8 @@
     "gdp": 3640000000,
     "gdpPerCapita": 33985,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/aw"
   },
   {
     "id": "aus",
@@ -605,7 +624,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Canberra",
     "population": 25687041,
-    "stateForm": "Quân Chủ Liên Bang"
+    "stateForm": "Quân Chủ Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/au"
   },
   {
     "id": "aut",
@@ -627,7 +647,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vienna",
     "population": 9042000,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/at"
   },
   {
     "id": "aze",
@@ -649,7 +670,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Baku",
     "population": 10139177,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/az"
   },
   {
     "id": "bhs",
@@ -671,7 +693,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Nassau",
     "population": 399285,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/bs"
   },
   {
     "id": "bhr",
@@ -693,7 +716,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Manama",
     "population": 1748296,
-    "stateForm": "Tiểu Vương Quốc"
+    "stateForm": "Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/bh"
   },
   {
     "id": "bgd",
@@ -715,7 +739,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dhaka",
     "population": 169356251,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bd"
   },
   {
     "id": "brb",
@@ -737,7 +762,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bridgetown",
     "population": 287025,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/bb"
   },
   {
     "id": "blr",
@@ -759,7 +785,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Minsk",
     "population": 9379287,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/by"
   },
   {
     "id": "bel",
@@ -781,7 +808,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Brussels",
     "population": 11590324,
-    "stateForm": "Quân Chủ Liên Bang"
+    "stateForm": "Quân Chủ Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/be"
   },
   {
     "id": "blz",
@@ -803,7 +831,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Belmopan",
     "population": 405432,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/bz"
   },
   {
     "id": "ben",
@@ -825,7 +854,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Porto-Novo",
     "population": 13352864,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bj"
   },
   {
     "id": "bmu",
@@ -843,7 +873,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 142855,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/bm"
   },
   {
     "id": "btn",
@@ -865,7 +896,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Thimphu",
     "population": 777486,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/bt"
   },
   {
     "id": "bol",
@@ -887,7 +919,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "La Paz",
     "population": 12224110,
-    "stateForm": "Cộng Hòa Đa Dân Tộc"
+    "stateForm": "Cộng Hòa Đa Dân Tộc",
+    "flagUrl": "https://countryflagsapi.com/png/bo"
   },
   {
     "id": "bes",
@@ -904,7 +937,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/bq"
   },
   {
     "id": "bih",
@@ -926,7 +960,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Sarajevo",
     "population": 3280819,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ba"
   },
   {
     "id": "bwa",
@@ -948,7 +983,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Gaborone",
     "population": 2630296,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bw"
   },
   {
     "id": "bvt",
@@ -965,7 +1001,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/bv"
   },
   {
     "id": "bra",
@@ -987,7 +1024,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Brasília",
     "population": 215313498,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/br"
   },
   {
     "id": "iot",
@@ -1004,7 +1042,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/io"
   },
   {
     "id": "vgb",
@@ -1022,7 +1061,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 38627,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/vg"
   },
   {
     "id": "brn",
@@ -1044,7 +1084,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Bandar Seri Begawan",
     "population": 437479,
-    "stateForm": "Tiểu Vương Quốc"
+    "stateForm": "Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/bn"
   },
   {
     "id": "bgr",
@@ -1066,7 +1107,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Sofia",
     "population": 6844506,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bg"
   },
   {
     "id": "bfa",
@@ -1088,7 +1130,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Ouagadougou",
     "population": 22100683,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bf"
   },
   {
     "id": "bdi",
@@ -1110,7 +1153,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Gitega",
     "population": 13625313,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/bi"
   },
   {
     "id": "khm",
@@ -1132,7 +1176,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Phnom Penh",
     "population": 17038563,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/kh"
   },
   {
     "id": "cmr",
@@ -1154,7 +1199,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Yaoundé",
     "population": 28914993,
-    "stateForm": "Cộng Hòa Đơn Nhất"
+    "stateForm": "Cộng Hòa Đơn Nhất",
+    "flagUrl": "https://countryflagsapi.com/png/cm"
   },
   {
     "id": "can",
@@ -1176,7 +1222,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Ottawa",
     "population": 40240338,
-    "stateForm": "Quân Chủ Liên Bang"
+    "stateForm": "Quân Chủ Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ca"
   },
   {
     "id": "cpv",
@@ -1198,7 +1245,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Praia",
     "population": 583255,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cv"
   },
   {
     "id": "cym",
@@ -1217,7 +1265,8 @@
     "gdp": 7659000000,
     "gdpPerCapita": 97750,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ky"
   },
   {
     "id": "caf",
@@ -1239,7 +1288,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bangui",
     "population": 5579144,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cf"
   },
   {
     "id": "tcd",
@@ -1261,7 +1311,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "N'Djamena",
     "population": 17879106,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/td"
   },
   {
     "id": "chl",
@@ -1283,7 +1334,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Santiago",
     "population": 19829319,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cl"
   },
   {
     "id": "cxr",
@@ -1300,7 +1352,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/cx"
   },
   {
     "id": "cck",
@@ -1317,7 +1370,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/cc"
   },
   {
     "id": "col",
@@ -1339,7 +1393,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bogotá",
     "population": 52085168,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/co"
   },
   {
     "id": "com",
@@ -1361,7 +1416,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Moroni",
     "population": 859214,
-    "stateForm": "Cộng Hòa Liên Hợp"
+    "stateForm": "Cộng Hòa Liên Hợp",
+    "flagUrl": "https://countryflagsapi.com/png/km"
   },
   {
     "id": "cok",
@@ -1380,7 +1436,8 @@
     "gdp": 404000000,
     "gdpPerCapita": 30161,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ck"
   },
   {
     "id": "cri",
@@ -1402,7 +1459,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "San José",
     "population": 5180829,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cr"
   },
   {
     "id": "hrv",
@@ -1424,7 +1482,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Zagreb",
     "population": 3880963,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/hr"
   },
   {
     "id": "cuw",
@@ -1442,7 +1501,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 22192,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/cw"
   },
   {
     "id": "cyp",
@@ -1464,7 +1524,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Nicosia",
     "population": 1251189,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cy"
   },
   {
     "id": "cze",
@@ -1486,7 +1547,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Prague",
     "population": 10505445,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cz"
   },
   {
     "id": "cod",
@@ -1508,7 +1570,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kinshasa",
     "population": 99010212,
-    "stateForm": "Cộng Hòa Đơn Nhất"
+    "stateForm": "Cộng Hòa Đơn Nhất",
+    "flagUrl": "https://countryflagsapi.com/png/cd"
   },
   {
     "id": "dnk",
@@ -1530,7 +1593,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Copenhagen",
     "population": 5915000,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/dk"
   },
   {
     "id": "dji",
@@ -1552,7 +1616,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Djibouti",
     "population": 1120000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/dj"
   },
   {
     "id": "dma",
@@ -1574,7 +1639,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Roseau",
     "population": 72412,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/dm"
   },
   {
     "id": "dom",
@@ -1596,7 +1662,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Santo Domingo",
     "population": 11394979,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/do"
   },
   {
     "id": "ecu",
@@ -1618,7 +1685,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Quito",
     "population": 18001000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ec"
   },
   {
     "id": "egy",
@@ -1640,7 +1708,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Cairo",
     "population": 110012103,
-    "stateForm": "Cộng Hòa Ả Rập"
+    "stateForm": "Cộng Hòa Ả Rập",
+    "flagUrl": "https://countryflagsapi.com/png/eg"
   },
   {
     "id": "slv",
@@ -1662,7 +1731,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "San Salvador",
     "population": 6336392,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sv"
   },
   {
     "id": "gnq",
@@ -1684,7 +1754,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Malabo",
     "population": 1674908,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gq"
   },
   {
     "id": "eri",
@@ -1706,7 +1777,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Asmara",
     "population": 5352379,
-    "stateForm": "Cộng Hòa Đơn Nhất"
+    "stateForm": "Cộng Hòa Đơn Nhất",
+    "flagUrl": "https://countryflagsapi.com/png/er"
   },
   {
     "id": "est",
@@ -1728,7 +1800,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Tallinn",
     "population": 1348354,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ee"
   },
   {
     "id": "swz",
@@ -1750,7 +1823,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Mbabane",
     "population": 1220000,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/sz"
   },
   {
     "id": "eth",
@@ -1772,7 +1846,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Addis Ababa",
     "population": 132637591,
-    "stateForm": "Cộng Hòa Liên Bang Dân Chủ"
+    "stateForm": "Cộng Hòa Liên Bang Dân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/et"
   },
   {
     "id": "flk",
@@ -1791,7 +1866,8 @@
     "gdp": 307000000,
     "gdpPerCapita": 45000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/fk"
   },
   {
     "id": "fro",
@@ -1810,7 +1886,8 @@
     "gdp": 3640000000,
     "gdpPerCapita": 74120,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/fo"
   },
   {
     "id": "fsm",
@@ -1832,7 +1909,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Palikir",
     "population": 119000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/fm"
   },
   {
     "id": "fji",
@@ -1854,7 +1932,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Suva",
     "population": 931741,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/fj"
   },
   {
     "id": "fin",
@@ -1876,7 +1955,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Helsinki",
     "population": 5563600,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/fi"
   },
   {
     "id": "fra",
@@ -1918,7 +1998,8 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Paris",
-    "population": 68014000
+    "population": 68014000,
+    "flagUrl": "https://countryflagsapi.com/png/fr"
   },
   {
     "id": "guf",
@@ -1937,7 +2018,8 @@
     "gdp": 4050000000,
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gf"
   },
   {
     "id": "pyf",
@@ -1956,7 +2038,8 @@
     "gdp": 5700000000,
     "gdpPerCapita": 22774,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/pf"
   },
   {
     "id": "atf",
@@ -1973,7 +2056,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/tf"
   },
   {
     "id": "gab",
@@ -1995,7 +2079,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Libreville",
     "population": 2388992,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ga"
   },
   {
     "id": "gmb",
@@ -2017,7 +2102,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Banjul",
     "population": 2705992,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gm"
   },
   {
     "id": "geo",
@@ -2039,7 +2125,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tbilisi",
     "population": 3708610,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ge"
   },
   {
     "id": "deu",
@@ -2080,7 +2167,8 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "Berlin",
-    "population": 83369843
+    "population": 83369843,
+    "flagUrl": "https://countryflagsapi.com/png/de"
   },
   {
     "id": "gha",
@@ -2102,7 +2190,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Accra",
     "population": 33475870,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gh"
   },
   {
     "id": "gib",
@@ -2121,7 +2210,8 @@
     "gdp": 2480000000,
     "gdpPerCapita": 75000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gi"
   },
   {
     "id": "grc",
@@ -2143,7 +2233,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Athens",
     "population": 10402440,
-    "stateForm": "Cộng Hòa Nghị Viện"
+    "stateForm": "Cộng Hòa Nghị Viện",
+    "flagUrl": "https://countryflagsapi.com/png/gr"
   },
   {
     "id": "grl",
@@ -2162,7 +2253,8 @@
     "gdp": 2660000000,
     "gdpPerCapita": 58499,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gl"
   },
   {
     "id": "grd",
@@ -2184,7 +2276,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Saint George's",
     "population": 121008,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/gd"
   },
   {
     "id": "glp",
@@ -2203,7 +2296,8 @@
     "gdp": 10310000000,
     "gdpPerCapita": 25500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gp"
   },
   {
     "id": "gum",
@@ -2222,7 +2316,8 @@
     "gdp": 7289000000,
     "gdpPerCapita": 41833,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gu"
   },
   {
     "id": "gtm",
@@ -2244,7 +2339,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Guatemala City",
     "population": 17608483,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/gt"
   },
   {
     "id": "ggy",
@@ -2263,7 +2359,8 @@
     "gdp": 4650000000,
     "gdpPerCapita": 60000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gg"
   },
   {
     "id": "gin",
@@ -2285,7 +2382,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Conakry",
     "population": 13886359,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gn"
   },
   {
     "id": "gnb",
@@ -2307,7 +2405,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bissau",
     "population": 2105566,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gw"
   },
   {
     "id": "guy",
@@ -2329,7 +2428,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Georgetown",
     "population": 806953,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/gy"
   },
   {
     "id": "hti",
@@ -2351,7 +2451,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Port-au-Prince",
     "population": 11584996,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ht"
   },
   {
     "id": "hmd",
@@ -2368,7 +2469,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/hm"
   },
   {
     "id": "vat",
@@ -2387,7 +2489,8 @@
     "gdp": 390000000,
     "gdpPerCapita": 20000000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/va"
   },
   {
     "id": "hnd",
@@ -2409,7 +2512,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tegucigalpa",
     "population": 10376792,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/hn"
   },
   {
     "id": "hkg",
@@ -2428,7 +2532,8 @@
     "gdp": 406863000000,
     "gdpPerCapita": 54107,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/hk"
   },
   {
     "id": "hun",
@@ -2450,7 +2555,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Budapest",
     "population": 9689000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/hu"
   },
   {
     "id": "isl",
@@ -2472,7 +2578,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Reykjavík",
     "population": 395000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/is"
   },
   {
     "id": "ind",
@@ -2514,7 +2621,8 @@
     "isMonarchy": false,
     "hasCommunistRulingParty": false,
     "capital": "New Delhi",
-    "population": 1428627663
+    "population": 1428627663,
+    "flagUrl": "https://countryflagsapi.com/png/in"
   },
   {
     "id": "idn",
@@ -2536,7 +2644,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Jakarta",
     "population": 275501339,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/id"
   },
   {
     "id": "irn",
@@ -2558,7 +2667,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tehran",
     "population": 90550570,
-    "stateForm": "Cộng Hòa Hồi Giáo"
+    "stateForm": "Cộng Hòa Hồi Giáo",
+    "flagUrl": "https://countryflagsapi.com/png/ir"
   },
   {
     "id": "irq",
@@ -2580,7 +2690,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Baghdad",
     "population": 44496378,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/iq"
   },
   {
     "id": "irl",
@@ -2602,7 +2713,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Dublin",
     "population": 5261389,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ie"
   },
   {
     "id": "imn",
@@ -2621,7 +2733,8 @@
     "gdp": 6360000000,
     "gdpPerCapita": 88329,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/im"
   },
   {
     "id": "isr",
@@ -2643,7 +2756,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Jerusalem",
     "population": 9656000,
-    "stateForm": "Cộng Hòa Nghị Viện"
+    "stateForm": "Cộng Hòa Nghị Viện",
+    "flagUrl": "https://countryflagsapi.com/png/il"
   },
   {
     "id": "ita",
@@ -2665,7 +2779,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Rome",
     "population": 57550339,
-    "stateForm": "Cộng Hòa Nghị Viện"
+    "stateForm": "Cộng Hòa Nghị Viện",
+    "flagUrl": "https://countryflagsapi.com/png/it"
   },
   {
     "id": "civ",
@@ -2687,7 +2802,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abidjan",
     "population": 28605696,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ci"
   },
   {
     "id": "jam",
@@ -2709,7 +2825,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kingston",
     "population": 2825544,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/jm"
   },
   {
     "id": "jpn",
@@ -2750,7 +2867,8 @@
     "isMonarchy": true,
     "hasCommunistRulingParty": false,
     "capital": "Tokyo",
-    "population": 123294513
+    "population": 123294513,
+    "flagUrl": "https://countryflagsapi.com/png/jp"
   },
   {
     "id": "jey",
@@ -2769,7 +2887,8 @@
     "gdp": 5670000000,
     "gdpPerCapita": 76000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/je"
   },
   {
     "id": "jor",
@@ -2791,7 +2910,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Amman",
     "population": 10203140,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/jo"
   },
   {
     "id": "kaz",
@@ -2813,7 +2933,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nur-Sultan",
     "population": 20331000,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/kz"
   },
   {
     "id": "ken",
@@ -2835,7 +2956,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nairobi",
     "population": 54031487,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ke"
   },
   {
     "id": "kir",
@@ -2857,7 +2979,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Tarawa",
     "population": 135182,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ki"
   },
   {
     "id": "xkx",
@@ -2876,7 +2999,8 @@
     "gdp": 22155000000,
     "gdpPerCapita": 7299,
     "governmentSystem": "Cộng Hòa Dân Chủ Bầu Cử Đa Đảng",
-    "economicModel": "Based on regime: Electoral democracy"
+    "economicModel": "Based on regime: Electoral democracy",
+    "flagUrl": "https://countryflagsapi.com/png/xk"
   },
   {
     "id": "kwt",
@@ -2898,7 +3022,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Kuwait City",
     "population": 4328550,
-    "stateForm": "Tiểu Vương Quốc"
+    "stateForm": "Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/kw"
   },
   {
     "id": "kgz",
@@ -2920,7 +3045,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bishkek",
     "population": 6880400,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/kg"
   },
   {
     "id": "lao",
@@ -2942,7 +3068,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Vientiane",
     "population": 7529475,
-    "stateForm": "Cộng Hòa Dân Chủ Nhân Dân"
+    "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
+    "flagUrl": "https://countryflagsapi.com/png/la"
   },
   {
     "id": "lva",
@@ -2964,7 +3091,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Riga",
     "population": 1862142,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/lv"
   },
   {
     "id": "lbn",
@@ -2986,7 +3114,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Beirut",
     "population": 5489000,
-    "stateForm": "Cộng Hòa Đại Nghị"
+    "stateForm": "Cộng Hòa Đại Nghị",
+    "flagUrl": "https://countryflagsapi.com/png/lb"
   },
   {
     "id": "lso",
@@ -3008,7 +3137,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Maseru",
     "population": 2305825,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/ls"
   },
   {
     "id": "lbr",
@@ -3030,7 +3160,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Monrovia",
     "population": 5302681,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/lr"
   },
   {
     "id": "lby",
@@ -3052,7 +3183,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tripoli",
     "population": 6985361,
-    "stateForm": "Chính Quyền Chuyển Tiếp"
+    "stateForm": "Chính Quyền Chuyển Tiếp",
+    "flagUrl": "https://countryflagsapi.com/png/ly"
   },
   {
     "id": "lie",
@@ -3074,7 +3206,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vaduz",
     "population": 39327,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/li"
   },
   {
     "id": "ltu",
@@ -3096,7 +3229,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Vilnius",
     "population": 2801543,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/lt"
   },
   {
     "id": "lux",
@@ -3118,7 +3252,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Luxembourg City",
     "population": 671557,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/lu"
   },
   {
     "id": "mac",
@@ -3137,7 +3272,8 @@
     "gdp": 49467000000,
     "gdpPerCapita": 73047,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/mo"
   },
   {
     "id": "mdg",
@@ -3158,7 +3294,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Antananarivo",
     "population": 29036900,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mg"
   },
   {
     "id": "mwi",
@@ -3179,7 +3316,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lilongwe",
     "population": 20849747,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mw"
   },
   {
     "id": "mys",
@@ -3201,7 +3339,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kuala Lumpur",
     "population": 34581600,
-    "stateForm": "Quân Chủ Liên Bang"
+    "stateForm": "Quân Chủ Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/my"
   },
   {
     "id": "mdv",
@@ -3222,7 +3361,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Malé",
     "population": 554994,
-    "stateForm": "Cộng Hòa Hồi Giáo"
+    "stateForm": "Cộng Hòa Hồi Giáo",
+    "flagUrl": "https://countryflagsapi.com/png/mv"
   },
   {
     "id": "mli",
@@ -3243,7 +3383,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bamako",
     "population": 24994873,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ml"
   },
   {
     "id": "mlt",
@@ -3265,7 +3406,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Valletta",
     "population": 543516,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mt"
   },
   {
     "id": "mhl",
@@ -3287,7 +3429,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Majuro",
     "population": 42050,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mh"
   },
   {
     "id": "mtq",
@@ -3306,7 +3449,8 @@
     "gdp": 11320000000,
     "gdpPerCapita": 30000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/mq"
   },
   {
     "id": "mrt",
@@ -3328,7 +3472,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Nouakchott",
     "population": 5000000,
-    "stateForm": "Cộng Hòa Hồi Giáo"
+    "stateForm": "Cộng Hòa Hồi Giáo",
+    "flagUrl": "https://countryflagsapi.com/png/mr"
   },
   {
     "id": "mus",
@@ -3350,7 +3495,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port Louis",
     "population": 1299624,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mu"
   },
   {
     "id": "myt",
@@ -3369,7 +3515,8 @@
     "gdp": 3550000000,
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/yt"
   },
   {
     "id": "mex",
@@ -3391,7 +3538,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Mexico City",
     "population": 128932753,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/mx"
   },
   {
     "id": "mda",
@@ -3413,7 +3561,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Chișinău",
     "population": 3645212,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/md"
   },
   {
     "id": "mco",
@@ -3435,7 +3584,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Monaco",
     "population": 36469,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/mc"
   },
   {
     "id": "mng",
@@ -3457,7 +3607,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Ulaanbaatar",
     "population": 3418100,
-    "stateForm": "Cộng Hòa Nghị Viện"
+    "stateForm": "Cộng Hòa Nghị Viện",
+    "flagUrl": "https://countryflagsapi.com/png/mn"
   },
   {
     "id": "mne",
@@ -3478,7 +3629,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Podgorica",
     "population": 616695,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/me"
   },
   {
     "id": "msr",
@@ -3496,7 +3648,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 18451,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ms"
   },
   {
     "id": "mar",
@@ -3517,7 +3670,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Rabat",
     "population": 37744000,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/ma"
   },
   {
     "id": "moz",
@@ -3539,7 +3693,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Maputo",
     "population": 35666677,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mz"
   },
   {
     "id": "mmr",
@@ -3561,7 +3716,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Naypyidaw",
     "population": 54409800,
-    "stateForm": "Nhà Nước Chuyển Tiếp"
+    "stateForm": "Nhà Nước Chuyển Tiếp",
+    "flagUrl": "https://countryflagsapi.com/png/mm"
   },
   {
     "id": "nam",
@@ -3583,7 +3739,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Windhoek",
     "population": 2540905,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/na"
   },
   {
     "id": "nru",
@@ -3605,7 +3762,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Yaren",
     "population": 10900,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/nr"
   },
   {
     "id": "npl",
@@ -3627,7 +3785,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kathmandu",
     "population": 30547580,
-    "stateForm": "Cộng Hòa Dân Chủ Liên Bang"
+    "stateForm": "Cộng Hòa Dân Chủ Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/np"
   },
   {
     "id": "nld",
@@ -3649,7 +3808,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Amsterdam",
     "population": 17590672,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/nl"
   },
   {
     "id": "ncl",
@@ -3667,7 +3827,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 33516,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/nc"
   },
   {
     "id": "nzl",
@@ -3689,7 +3850,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Wellington",
     "population": 5150000,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/nz"
   },
   {
     "id": "nic",
@@ -3710,7 +3872,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Managua",
     "population": 7142099,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ni"
   },
   {
     "id": "ner",
@@ -3731,7 +3894,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Niamey",
     "population": 28940721,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ne"
   },
   {
     "id": "nga",
@@ -3752,7 +3916,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abuja",
     "population": 223804632,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ng"
   },
   {
     "id": "niu",
@@ -3771,7 +3936,8 @@
     "gdp": 367000000,
     "gdpPerCapita": 22000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/nu"
   },
   {
     "id": "nfk",
@@ -3788,7 +3954,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/nf"
   },
   {
     "id": "prk",
@@ -3810,7 +3977,8 @@
     "capital": "Pyongyang",
     "population": 26500000,
     "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
-    "officialIdeology": "Juche"
+    "officialIdeology": "Juche",
+    "flagUrl": "https://countryflagsapi.com/png/kp"
   },
   {
     "id": "mkd",
@@ -3832,7 +4000,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Skopje",
     "population": 2085051,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/mk"
   },
   {
     "id": "mnp",
@@ -3851,7 +4020,8 @@
     "gdp": 1300000000,
     "gdpPerCapita": 23786,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/mp"
   },
   {
     "id": "nor",
@@ -3873,7 +4043,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Oslo",
     "population": 5379475,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/no"
   },
   {
     "id": "omn",
@@ -3895,7 +4066,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Muscat",
     "population": 4975992,
-    "stateForm": "Tiểu Vương Quốc"
+    "stateForm": "Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/om"
   },
   {
     "id": "pak",
@@ -3916,7 +4088,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Islamabad",
     "population": 240485658,
-    "stateForm": "Cộng Hòa Hồi Giáo"
+    "stateForm": "Cộng Hòa Hồi Giáo",
+    "flagUrl": "https://countryflagsapi.com/png/pk"
   },
   {
     "id": "plw",
@@ -3938,7 +4111,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Ngerulmud",
     "population": 18024,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/pw"
   },
   {
     "id": "pse",
@@ -3955,7 +4129,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ps"
   },
   {
     "id": "pan",
@@ -3977,7 +4152,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Panama City",
     "population": 4480000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/pa"
   },
   {
     "id": "png",
@@ -3998,7 +4174,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port Moresby",
     "population": 10142619,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/pg"
   },
   {
     "id": "pry",
@@ -4020,7 +4197,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Asunción",
     "population": 6920667,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/py"
   },
   {
     "id": "per",
@@ -4042,7 +4220,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lima",
     "population": 35290000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/pe"
   },
   {
     "id": "phl",
@@ -4063,7 +4242,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Manila",
     "population": 120493701,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/ph"
   },
   {
     "id": "pcn",
@@ -4080,7 +4260,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/pn"
   },
   {
     "id": "pol",
@@ -4102,7 +4283,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Warsaw",
     "population": 37664000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/pl"
   },
   {
     "id": "prt",
@@ -4124,7 +4306,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Lisbon",
     "population": 10642836,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/pt"
   },
   {
     "id": "pri",
@@ -4143,7 +4326,8 @@
     "gdp": 126030000000,
     "gdpPerCapita": 39285,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/pr"
   },
   {
     "id": "qat",
@@ -4165,7 +4349,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Doha",
     "population": 3103500,
-    "stateForm": "Tiểu Vương Quốc"
+    "stateForm": "Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/qa"
   },
   {
     "id": "cog",
@@ -4185,7 +4370,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Brazzaville",
     "population": 6108869,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/cg"
   },
   {
     "id": "rou",
@@ -4207,7 +4393,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Bucharest",
     "population": 19120825,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ro"
   },
   {
     "id": "rwa",
@@ -4228,7 +4415,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kigali",
     "population": 14600000,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/rw"
   },
   {
     "id": "reu",
@@ -4245,7 +4433,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/re"
   },
   {
     "id": "blm",
@@ -4262,7 +4451,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/bl"
   },
   {
     "id": "shn",
@@ -4279,7 +4469,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/sh"
   },
   {
     "id": "kna",
@@ -4301,7 +4492,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Basseterre",
     "population": 46583,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/kn"
   },
   {
     "id": "lca",
@@ -4323,7 +4515,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Castries",
     "population": 181889,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/lc"
   },
   {
     "id": "maf",
@@ -4341,7 +4534,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 21668,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/mf"
   },
   {
     "id": "spm",
@@ -4360,7 +4554,8 @@
     "gdp": 330000000,
     "gdpPerCapita": 10000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/pm"
   },
   {
     "id": "vct",
@@ -4382,7 +4577,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kingstown",
     "population": 100982,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/vc"
   },
   {
     "id": "wsm",
@@ -4404,7 +4600,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Apia",
     "population": 198670,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ws"
   },
   {
     "id": "smr",
@@ -4426,7 +4623,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "City of San Marino",
     "population": 34660,
-    "stateForm": "Cộng Hòa Đặc Lập"
+    "stateForm": "Cộng Hòa Đặc Lập",
+    "flagUrl": "https://countryflagsapi.com/png/sm"
   },
   {
     "id": "stp",
@@ -4448,7 +4646,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "São Tomé",
     "population": 230000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/st"
   },
   {
     "id": "sau",
@@ -4470,7 +4669,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Riyadh",
     "population": 37200000,
-    "stateForm": "Quân Chủ Tuyệt Đối"
+    "stateForm": "Quân Chủ Tuyệt Đối",
+    "flagUrl": "https://countryflagsapi.com/png/sa"
   },
   {
     "id": "sen",
@@ -4492,7 +4692,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Dakar",
     "population": 17589198,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sn"
   },
   {
     "id": "srb",
@@ -4514,7 +4715,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Belgrade",
     "population": 6644449,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/rs"
   },
   {
     "id": "syc",
@@ -4535,7 +4737,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Victoria",
     "population": 100388,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sc"
   },
   {
     "id": "sle",
@@ -4557,7 +4760,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Freetown",
     "population": 8605718,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sl"
   },
   {
     "id": "sgp",
@@ -4579,7 +4783,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Singapore",
     "population": 5917600,
-    "stateForm": "Cộng Hòa Nhị Nguyên"
+    "stateForm": "Cộng Hòa Nhị Nguyên",
+    "flagUrl": "https://countryflagsapi.com/png/sg"
   },
   {
     "id": "sxm",
@@ -4597,7 +4802,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 40028,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/sx"
   },
   {
     "id": "svk",
@@ -4619,7 +4825,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Bratislava",
     "population": 5458827,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sk"
   },
   {
     "id": "svn",
@@ -4641,7 +4848,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Ljubljana",
     "population": 2108000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/si"
   },
   {
     "id": "slb",
@@ -4663,7 +4871,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Honiara",
     "population": 703996,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/sb"
   },
   {
     "id": "som",
@@ -4685,7 +4894,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Mogadishu",
     "population": 17065000,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/so"
   },
   {
     "id": "zaf",
@@ -4707,7 +4917,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Pretoria",
     "population": 60142978,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/za"
   },
   {
     "id": "sgs",
@@ -4724,7 +4935,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/gs"
   },
   {
     "id": "kor",
@@ -4746,7 +4958,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Seoul",
     "population": 51316195,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/kr"
   },
   {
     "id": "ssd",
@@ -4768,7 +4981,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Juba",
     "population": 11381378,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ss"
   },
   {
     "id": "esp",
@@ -4790,7 +5004,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Madrid",
     "population": 47615034,
-    "stateForm": "Quân Chủ Lập Hiến"
+    "stateForm": "Quân Chủ Lập Hiến",
+    "flagUrl": "https://countryflagsapi.com/png/es"
   },
   {
     "id": "lka",
@@ -4812,7 +5027,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Colombo",
     "population": 21893579,
-    "stateForm": "Cộng Hòa Dân Chủ"
+    "stateForm": "Cộng Hòa Dân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/lk"
   },
   {
     "id": "sdn",
@@ -4834,7 +5050,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Khartoum",
     "population": 44909353,
-    "stateForm": "Cộng Hòa Chuyển Tiếp"
+    "stateForm": "Cộng Hòa Chuyển Tiếp",
+    "flagUrl": "https://countryflagsapi.com/png/sd"
   },
   {
     "id": "sur",
@@ -4856,7 +5073,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Paramaribo",
     "population": 612781,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/sr"
   },
   {
     "id": "sjm",
@@ -4873,7 +5091,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/sj"
   },
   {
     "id": "che",
@@ -4895,7 +5114,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Bern",
     "population": 8776000,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ch"
   },
   {
     "id": "syr",
@@ -4916,7 +5136,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Damascus",
     "population": 24504000,
-    "stateForm": "Cộng Hòa Ả Rập"
+    "stateForm": "Cộng Hòa Ả Rập",
+    "flagUrl": "https://countryflagsapi.com/png/sy"
   },
   {
     "id": "twn",
@@ -4938,7 +5159,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Taipei",
     "population": 23968105,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tw"
   },
   {
     "id": "tjk",
@@ -4960,7 +5182,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dushanbe",
     "population": 9952000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tj"
   },
   {
     "id": "tza",
@@ -4981,7 +5204,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Dodoma",
     "population": 61498437,
-    "stateForm": "Cộng Hòa Liên Hợp"
+    "stateForm": "Cộng Hòa Liên Hợp",
+    "flagUrl": "https://countryflagsapi.com/png/tz"
   },
   {
     "id": "tha",
@@ -5003,7 +5227,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Bangkok",
     "population": 73183122,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/th"
   },
   {
     "id": "tls",
@@ -5025,7 +5250,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Dili",
     "population": 1318445,
-    "stateForm": "Cộng Hòa Dân Chủ"
+    "stateForm": "Cộng Hòa Dân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/tl"
   },
   {
     "id": "tgo",
@@ -5047,7 +5273,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Lomé",
     "population": 9053000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tg"
   },
   {
     "id": "tkl",
@@ -5064,7 +5291,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/tk"
   },
   {
     "id": "ton",
@@ -5086,7 +5314,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Nuku'alofa",
     "population": 100651,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/to"
   },
   {
     "id": "tto",
@@ -5108,7 +5337,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Port of Spain",
     "population": 1525663,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tt"
   },
   {
     "id": "tun",
@@ -5130,7 +5360,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Tunis",
     "population": 12676775,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tn"
   },
   {
     "id": "tur",
@@ -5152,7 +5383,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Ankara",
     "population": 85326000,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/tr"
   },
   {
     "id": "tkm",
@@ -5174,7 +5406,8 @@
     "economicModel": "Based on regime: Closed autocracy",
     "capital": "Ashgabat",
     "population": 6361000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/tm"
   },
   {
     "id": "tca",
@@ -5193,7 +5426,8 @@
     "gdp": 1870000000,
     "gdpPerCapita": 30349,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/tc"
   },
   {
     "id": "tuv",
@@ -5215,7 +5449,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Funafuti",
     "population": 12373,
-    "stateForm": "Quân Chủ"
+    "stateForm": "Quân Chủ",
+    "flagUrl": "https://countryflagsapi.com/png/tv"
   },
   {
     "id": "vir",
@@ -5233,7 +5468,8 @@
     "confidenceLevel": "low",
     "gdpPerCapita": 44321,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/vi"
   },
   {
     "id": "uga",
@@ -5255,7 +5491,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Kampala",
     "population": 48855393,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ug"
   },
   {
     "id": "ukr",
@@ -5277,7 +5514,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Kyiv",
     "population": 38000000,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ua"
   },
   {
     "id": "are",
@@ -5299,7 +5537,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Abu Dhabi",
     "population": 9890400,
-    "stateForm": "Liên Minh Tiểu Vương Quốc"
+    "stateForm": "Liên Minh Tiểu Vương Quốc",
+    "flagUrl": "https://countryflagsapi.com/png/ae"
   },
   {
     "id": "umi",
@@ -5316,7 +5555,8 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/um"
   },
   {
     "id": "ury",
@@ -5338,7 +5578,8 @@
     "economicModel": "Based on regime: Liberal democracy",
     "capital": "Montevideo",
     "population": 3357620,
-    "stateForm": "Cộng Hòa Tổng Thống"
+    "stateForm": "Cộng Hòa Tổng Thống",
+    "flagUrl": "https://countryflagsapi.com/png/uy"
   },
   {
     "id": "uzb",
@@ -5360,7 +5601,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Tashkent",
     "population": 34232100,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/uz"
   },
   {
     "id": "vut",
@@ -5382,7 +5624,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Port Vila",
     "population": 321099,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/vu"
   },
   {
     "id": "ven",
@@ -5403,7 +5646,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Caracas",
     "population": 28301696,
-    "stateForm": "Cộng Hòa Liên Bang"
+    "stateForm": "Cộng Hòa Liên Bang",
+    "flagUrl": "https://countryflagsapi.com/png/ve"
   },
   {
     "id": "wlf",
@@ -5422,7 +5666,8 @@
     "gdp": 263000000,
     "gdpPerCapita": 9500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/wf"
   },
   {
     "id": "esh",
@@ -5441,7 +5686,8 @@
     "gdp": 2700000000,
     "gdpPerCapita": 500,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/eh"
   },
   {
     "id": "yem",
@@ -5463,7 +5709,8 @@
     "economicModel": "Based on regime: Unknown",
     "capital": "Sana'a",
     "population": 36408629,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/ye"
   },
   {
     "id": "zmb",
@@ -5485,7 +5732,8 @@
     "economicModel": "Based on regime: Electoral democracy",
     "capital": "Lusaka",
     "population": 19473125,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/zm"
   },
   {
     "id": "zwe",
@@ -5507,7 +5755,8 @@
     "economicModel": "Based on regime: Electoral autocracy",
     "capital": "Harare",
     "population": 16665409,
-    "stateForm": "Cộng Hòa"
+    "stateForm": "Cộng Hòa",
+    "flagUrl": "https://countryflagsapi.com/png/zw"
   },
   {
     "id": "ala",
@@ -5524,6 +5773,7 @@
     "dataUpdatedAt": "2026-06-07T09:46:45.252Z",
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
-    "economicModel": "Based on regime: Unknown"
+    "economicModel": "Based on regime: Unknown",
+    "flagUrl": "https://countryflagsapi.com/png/ax"
   }
 ]
