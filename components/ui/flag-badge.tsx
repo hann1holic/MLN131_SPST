@@ -24,7 +24,7 @@ export function FlagBadge({
   className,
   showIso = true
 }: {
-  country: Pick<CountryPoliticalProfile, "iso2" | "iso3" | "flagEmoji" | "flagSvgUrl" | "countryName">;
+  country: Pick<CountryPoliticalProfile, "iso2" | "iso3" | "flagEmoji" | "flagUrl" | "countryName">;
   variant?: FlagBadgeVariant;
   active?: boolean;
   className?: string;
@@ -42,9 +42,9 @@ export function FlagBadge({
       )}
       title={`${country.countryName} (${country.iso3})`}
     >
-      {country.flagSvgUrl ? (
+      {country.flagUrl ? (
         <img
-          src={country.flagSvgUrl}
+          src={country.flagUrl}
           alt={`Cờ ${country.countryName}`}
           className={cn("object-cover shadow-sm", flagClasses[variant])}
           loading="lazy"
