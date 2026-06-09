@@ -30,9 +30,6 @@ export function FlagBadge({
   className?: string;
   showIso?: boolean;
 }) {
-  if (country.iso3 === "JPN") {
-    console.log("🇯🇵 JPN data:", { flagUrl: country.flagUrl, flagEmoji: country.flagEmoji });
-  }
   return (
     <span
       className={cn(
