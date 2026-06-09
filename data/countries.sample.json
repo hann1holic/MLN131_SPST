@@ -3606,7 +3606,11 @@
     "subregion": "Southeast Europe",
     "population": 1585566,
     "areaKm2": 10908,
-    "regimeCategory": "Unknown"
+    "regimeCategory": "Unknown",
+    "flagEmoji": "🏳️",
+    "sources": [],
+    "dataUpdatedAt": "2026-06-09T04:23:34.694Z",
+    "confidenceLevel": "unknown"
   },
   {
     "id": "dnk",
