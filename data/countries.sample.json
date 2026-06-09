@@ -52,7 +52,7 @@
     "capital": "Hanoi",
     "population": 98186856,
     "officialIdeology": "Chủ Nghĩa Xã Hội",
-    "flagUrl": "https://countryflagsapi.com/png/vn"
+    "flagUrl": "https://flagpedia.net/download/vn.png"
   },
   {
     "id": "ru",
@@ -108,7 +108,7 @@
     "hasCommunistRulingParty": false,
     "capital": "Moscow",
     "population": 144714314,
-    "flagUrl": "https://countryflagsapi.com/png/ru"
+    "flagUrl": "https://flagpedia.net/download/ru.png"
   },
   {
     "id": "us",
@@ -166,7 +166,7 @@
     "hasCommunistRulingParty": false,
     "capital": "Washington D.C.",
     "population": 338289857,
-    "flagUrl": "https://countryflagsapi.com/png/us"
+    "flagUrl": "https://flagpedia.net/download/us.png"
   },
   {
     "id": "cn",
@@ -222,7 +222,7 @@
     "capital": "Beijing",
     "population": 1425887337,
     "officialIdeology": "Chủ Nghĩa Xã Hội Marxist-Leninist",
-    "flagUrl": "https://countryflagsapi.com/png/cn"
+    "flagUrl": "https://flagpedia.net/download/cn.png"
   },
   {
     "id": "gb",
@@ -273,7 +273,7 @@
     "hasCommunistRulingParty": false,
     "capital": "London",
     "population": 68138000,
-    "flagUrl": "https://countryflagsapi.com/png/gb"
+    "flagUrl": "https://flagpedia.net/download/gb.png"
   },
   {
     "id": "se",
@@ -306,7 +306,7 @@
     "capital": "Stockholm",
     "population": 10520575,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/se"
+    "flagUrl": "https://flagpedia.net/download/se.png"
   },
   {
     "id": "cu",
@@ -340,7 +340,7 @@
     "population": 10987317,
     "stateForm": "Cộng Hòa Xã Hội Chủ Nghĩa",
     "officialIdeology": "Chủ Nghĩa Xã Hội",
-    "flagUrl": "https://countryflagsapi.com/png/cu"
+    "flagUrl": "https://flagpedia.net/download/cu.png"
   },
   {
     "id": "afg",
@@ -363,7 +363,7 @@
     "capital": "Kabul",
     "population": 40218000,
     "stateForm": "Cộng Hòa/Chế Độ Bầu Cử",
-    "flagUrl": "https://countryflagsapi.com/png/af"
+    "flagUrl": "https://flagpedia.net/download/af.png"
   },
   {
     "id": "alb",
@@ -386,7 +386,7 @@
     "capital": "Tirana",
     "population": 2877800,
     "stateForm": "Cộng Hòa Dân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/al"
+    "flagUrl": "https://flagpedia.net/download/al.png"
   },
   {
     "id": "dza",
@@ -409,7 +409,7 @@
     "capital": "Algiers",
     "population": 44903225,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/dz"
+    "flagUrl": "https://flagpedia.net/download/dz.png"
   },
   {
     "id": "asm",
@@ -429,7 +429,7 @@
     "gdpPerCapita": 18018,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/as"
+    "flagUrl": "https://flagpedia.net/download/as.png"
   },
   {
     "id": "and",
@@ -452,7 +452,7 @@
     "capital": "Andorra la Vella",
     "population": 77543,
     "stateForm": "Đồng Thể Tập",
-    "flagUrl": "https://countryflagsapi.com/png/ad"
+    "flagUrl": "https://flagpedia.net/download/ad.png"
   },
   {
     "id": "ago",
@@ -475,7 +475,7 @@
     "capital": "Luanda",
     "population": 35588987,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ao"
+    "flagUrl": "https://flagpedia.net/download/ao.png"
   },
   {
     "id": "aia",
@@ -495,7 +495,7 @@
     "gdpPerCapita": 31269,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ai"
+    "flagUrl": "https://flagpedia.net/download/ai.png"
   },
   {
     "id": "ata",
@@ -513,7 +513,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/aq"
+    "flagUrl": "https://flagpedia.net/download/aq.png"
   },
   {
     "id": "atg",
@@ -536,7 +536,7 @@
     "capital": "Saint John's",
     "population": 97118,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/ag"
+    "flagUrl": "https://flagpedia.net/download/ag.png"
   },
   {
     "id": "arg",
@@ -559,7 +559,7 @@
     "capital": "Buenos Aires",
     "population": 46233344,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ar"
+    "flagUrl": "https://flagpedia.net/download/ar.png"
   },
   {
     "id": "arm",
@@ -582,7 +582,7 @@
     "capital": "Yerevan",
     "population": 2963234,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/am"
+    "flagUrl": "https://flagpedia.net/download/am.png"
   },
   {
     "id": "abw",
@@ -602,7 +602,7 @@
     "gdpPerCapita": 33985,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/aw"
+    "flagUrl": "https://flagpedia.net/download/aw.png"
   },
   {
     "id": "aus",
@@ -625,7 +625,7 @@
     "capital": "Canberra",
     "population": 25687041,
     "stateForm": "Quân Chủ Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/au"
+    "flagUrl": "https://flagpedia.net/download/au.png"
   },
   {
     "id": "aut",
@@ -648,7 +648,7 @@
     "capital": "Vienna",
     "population": 9042000,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/at"
+    "flagUrl": "https://flagpedia.net/download/at.png"
   },
   {
     "id": "aze",
@@ -671,7 +671,7 @@
     "capital": "Baku",
     "population": 10139177,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/az"
+    "flagUrl": "https://flagpedia.net/download/az.png"
   },
   {
     "id": "bhs",
@@ -694,7 +694,7 @@
     "capital": "Nassau",
     "population": 399285,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/bs"
+    "flagUrl": "https://flagpedia.net/download/bs.png"
   },
   {
     "id": "bhr",
@@ -717,7 +717,7 @@
     "capital": "Manama",
     "population": 1748296,
     "stateForm": "Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/bh"
+    "flagUrl": "https://flagpedia.net/download/bh.png"
   },
   {
     "id": "bgd",
@@ -740,7 +740,7 @@
     "capital": "Dhaka",
     "population": 169356251,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bd"
+    "flagUrl": "https://flagpedia.net/download/bd.png"
   },
   {
     "id": "brb",
@@ -763,7 +763,7 @@
     "capital": "Bridgetown",
     "population": 287025,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/bb"
+    "flagUrl": "https://flagpedia.net/download/bb.png"
   },
   {
     "id": "blr",
@@ -786,7 +786,7 @@
     "capital": "Minsk",
     "population": 9379287,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/by"
+    "flagUrl": "https://flagpedia.net/download/by.png"
   },
   {
     "id": "bel",
@@ -809,7 +809,7 @@
     "capital": "Brussels",
     "population": 11590324,
     "stateForm": "Quân Chủ Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/be"
+    "flagUrl": "https://flagpedia.net/download/be.png"
   },
   {
     "id": "blz",
@@ -832,7 +832,7 @@
     "capital": "Belmopan",
     "population": 405432,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/bz"
+    "flagUrl": "https://flagpedia.net/download/bz.png"
   },
   {
     "id": "ben",
@@ -855,7 +855,7 @@
     "capital": "Porto-Novo",
     "population": 13352864,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bj"
+    "flagUrl": "https://flagpedia.net/download/bj.png"
   },
   {
     "id": "bmu",
@@ -874,7 +874,7 @@
     "gdpPerCapita": 142855,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/bm"
+    "flagUrl": "https://flagpedia.net/download/bm.png"
   },
   {
     "id": "btn",
@@ -897,7 +897,7 @@
     "capital": "Thimphu",
     "population": 777486,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/bt"
+    "flagUrl": "https://flagpedia.net/download/bt.png"
   },
   {
     "id": "bol",
@@ -920,7 +920,7 @@
     "capital": "La Paz",
     "population": 12224110,
     "stateForm": "Cộng Hòa Đa Dân Tộc",
-    "flagUrl": "https://countryflagsapi.com/png/bo"
+    "flagUrl": "https://flagpedia.net/download/bo.png"
   },
   {
     "id": "bes",
@@ -938,7 +938,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/bq"
+    "flagUrl": "https://flagpedia.net/download/bq.png"
   },
   {
     "id": "bih",
@@ -961,7 +961,7 @@
     "capital": "Sarajevo",
     "population": 3280819,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ba"
+    "flagUrl": "https://flagpedia.net/download/ba.png"
   },
   {
     "id": "bwa",
@@ -984,7 +984,7 @@
     "capital": "Gaborone",
     "population": 2630296,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bw"
+    "flagUrl": "https://flagpedia.net/download/bw.png"
   },
   {
     "id": "bvt",
@@ -1002,7 +1002,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/bv"
+    "flagUrl": "https://flagpedia.net/download/bv.png"
   },
   {
     "id": "bra",
@@ -1025,7 +1025,7 @@
     "capital": "Brasília",
     "population": 215313498,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/br"
+    "flagUrl": "https://flagpedia.net/download/br.png"
   },
   {
     "id": "iot",
@@ -1043,7 +1043,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/io"
+    "flagUrl": "https://flagpedia.net/download/io.png"
   },
   {
     "id": "vgb",
@@ -1062,7 +1062,7 @@
     "gdpPerCapita": 38627,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/vg"
+    "flagUrl": "https://flagpedia.net/download/vg.png"
   },
   {
     "id": "brn",
@@ -1085,7 +1085,7 @@
     "capital": "Bandar Seri Begawan",
     "population": 437479,
     "stateForm": "Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/bn"
+    "flagUrl": "https://flagpedia.net/download/bn.png"
   },
   {
     "id": "bgr",
@@ -1108,7 +1108,7 @@
     "capital": "Sofia",
     "population": 6844506,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bg"
+    "flagUrl": "https://flagpedia.net/download/bg.png"
   },
   {
     "id": "bfa",
@@ -1131,7 +1131,7 @@
     "capital": "Ouagadougou",
     "population": 22100683,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bf"
+    "flagUrl": "https://flagpedia.net/download/bf.png"
   },
   {
     "id": "bdi",
@@ -1154,7 +1154,7 @@
     "capital": "Gitega",
     "population": 13625313,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/bi"
+    "flagUrl": "https://flagpedia.net/download/bi.png"
   },
   {
     "id": "khm",
@@ -1177,7 +1177,7 @@
     "capital": "Phnom Penh",
     "population": 17038563,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/kh"
+    "flagUrl": "https://flagpedia.net/download/kh.png"
   },
   {
     "id": "cmr",
@@ -1200,7 +1200,7 @@
     "capital": "Yaoundé",
     "population": 28914993,
     "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagUrl": "https://countryflagsapi.com/png/cm"
+    "flagUrl": "https://flagpedia.net/download/cm.png"
   },
   {
     "id": "can",
@@ -1223,7 +1223,7 @@
     "capital": "Ottawa",
     "population": 40240338,
     "stateForm": "Quân Chủ Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ca"
+    "flagUrl": "https://flagpedia.net/download/ca.png"
   },
   {
     "id": "cpv",
@@ -1246,7 +1246,7 @@
     "capital": "Praia",
     "population": 583255,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cv"
+    "flagUrl": "https://flagpedia.net/download/cv.png"
   },
   {
     "id": "cym",
@@ -1266,7 +1266,7 @@
     "gdpPerCapita": 97750,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ky"
+    "flagUrl": "https://flagpedia.net/download/ky.png"
   },
   {
     "id": "caf",
@@ -1289,7 +1289,7 @@
     "capital": "Bangui",
     "population": 5579144,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cf"
+    "flagUrl": "https://flagpedia.net/download/cf.png"
   },
   {
     "id": "tcd",
@@ -1312,7 +1312,7 @@
     "capital": "N'Djamena",
     "population": 17879106,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/td"
+    "flagUrl": "https://flagpedia.net/download/td.png"
   },
   {
     "id": "chl",
@@ -1335,7 +1335,7 @@
     "capital": "Santiago",
     "population": 19829319,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cl"
+    "flagUrl": "https://flagpedia.net/download/cl.png"
   },
   {
     "id": "cxr",
@@ -1353,7 +1353,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/cx"
+    "flagUrl": "https://flagpedia.net/download/cx.png"
   },
   {
     "id": "cck",
@@ -1371,7 +1371,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/cc"
+    "flagUrl": "https://flagpedia.net/download/cc.png"
   },
   {
     "id": "col",
@@ -1394,7 +1394,7 @@
     "capital": "Bogotá",
     "population": 52085168,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/co"
+    "flagUrl": "https://flagpedia.net/download/co.png"
   },
   {
     "id": "com",
@@ -1417,7 +1417,7 @@
     "capital": "Moroni",
     "population": 859214,
     "stateForm": "Cộng Hòa Liên Hợp",
-    "flagUrl": "https://countryflagsapi.com/png/km"
+    "flagUrl": "https://flagpedia.net/download/km.png"
   },
   {
     "id": "cok",
@@ -1437,7 +1437,7 @@
     "gdpPerCapita": 30161,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ck"
+    "flagUrl": "https://flagpedia.net/download/ck.png"
   },
   {
     "id": "cri",
@@ -1460,7 +1460,7 @@
     "capital": "San José",
     "population": 5180829,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cr"
+    "flagUrl": "https://flagpedia.net/download/cr.png"
   },
   {
     "id": "hrv",
@@ -1483,7 +1483,7 @@
     "capital": "Zagreb",
     "population": 3880963,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/hr"
+    "flagUrl": "https://flagpedia.net/download/hr.png"
   },
   {
     "id": "cuw",
@@ -1502,7 +1502,7 @@
     "gdpPerCapita": 22192,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/cw"
+    "flagUrl": "https://flagpedia.net/download/cw.png"
   },
   {
     "id": "cyp",
@@ -1525,7 +1525,7 @@
     "capital": "Nicosia",
     "population": 1251189,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cy"
+    "flagUrl": "https://flagpedia.net/download/cy.png"
   },
   {
     "id": "cze",
@@ -1548,7 +1548,7 @@
     "capital": "Prague",
     "population": 10505445,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cz"
+    "flagUrl": "https://flagpedia.net/download/cz.png"
   },
   {
     "id": "cod",
@@ -1571,7 +1571,7 @@
     "capital": "Kinshasa",
     "population": 99010212,
     "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagUrl": "https://countryflagsapi.com/png/cd"
+    "flagUrl": "https://flagpedia.net/download/cd.png"
   },
   {
     "id": "dnk",
@@ -1594,7 +1594,7 @@
     "capital": "Copenhagen",
     "population": 5915000,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/dk"
+    "flagUrl": "https://flagpedia.net/download/dk.png"
   },
   {
     "id": "dji",
@@ -1617,7 +1617,7 @@
     "capital": "Djibouti",
     "population": 1120000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/dj"
+    "flagUrl": "https://flagpedia.net/download/dj.png"
   },
   {
     "id": "dma",
@@ -1640,7 +1640,7 @@
     "capital": "Roseau",
     "population": 72412,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/dm"
+    "flagUrl": "https://flagpedia.net/download/dm.png"
   },
   {
     "id": "dom",
@@ -1663,7 +1663,7 @@
     "capital": "Santo Domingo",
     "population": 11394979,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/do"
+    "flagUrl": "https://flagpedia.net/download/do.png"
   },
   {
     "id": "ecu",
@@ -1686,7 +1686,7 @@
     "capital": "Quito",
     "population": 18001000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ec"
+    "flagUrl": "https://flagpedia.net/download/ec.png"
   },
   {
     "id": "egy",
@@ -1709,7 +1709,7 @@
     "capital": "Cairo",
     "population": 110012103,
     "stateForm": "Cộng Hòa Ả Rập",
-    "flagUrl": "https://countryflagsapi.com/png/eg"
+    "flagUrl": "https://flagpedia.net/download/eg.png"
   },
   {
     "id": "slv",
@@ -1732,7 +1732,7 @@
     "capital": "San Salvador",
     "population": 6336392,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sv"
+    "flagUrl": "https://flagpedia.net/download/sv.png"
   },
   {
     "id": "gnq",
@@ -1755,7 +1755,7 @@
     "capital": "Malabo",
     "population": 1674908,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gq"
+    "flagUrl": "https://flagpedia.net/download/gq.png"
   },
   {
     "id": "eri",
@@ -1778,7 +1778,7 @@
     "capital": "Asmara",
     "population": 5352379,
     "stateForm": "Cộng Hòa Đơn Nhất",
-    "flagUrl": "https://countryflagsapi.com/png/er"
+    "flagUrl": "https://flagpedia.net/download/er.png"
   },
   {
     "id": "est",
@@ -1801,7 +1801,7 @@
     "capital": "Tallinn",
     "population": 1348354,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ee"
+    "flagUrl": "https://flagpedia.net/download/ee.png"
   },
   {
     "id": "swz",
@@ -1824,7 +1824,7 @@
     "capital": "Mbabane",
     "population": 1220000,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/sz"
+    "flagUrl": "https://flagpedia.net/download/sz.png"
   },
   {
     "id": "eth",
@@ -1847,7 +1847,7 @@
     "capital": "Addis Ababa",
     "population": 132637591,
     "stateForm": "Cộng Hòa Liên Bang Dân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/et"
+    "flagUrl": "https://flagpedia.net/download/et.png"
   },
   {
     "id": "flk",
@@ -1867,7 +1867,7 @@
     "gdpPerCapita": 45000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/fk"
+    "flagUrl": "https://flagpedia.net/download/fk.png"
   },
   {
     "id": "fro",
@@ -1887,7 +1887,7 @@
     "gdpPerCapita": 74120,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/fo"
+    "flagUrl": "https://flagpedia.net/download/fo.png"
   },
   {
     "id": "fsm",
@@ -1910,7 +1910,7 @@
     "capital": "Palikir",
     "population": 119000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/fm"
+    "flagUrl": "https://flagpedia.net/download/fm.png"
   },
   {
     "id": "fji",
@@ -1933,7 +1933,7 @@
     "capital": "Suva",
     "population": 931741,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/fj"
+    "flagUrl": "https://flagpedia.net/download/fj.png"
   },
   {
     "id": "fin",
@@ -1956,7 +1956,7 @@
     "capital": "Helsinki",
     "population": 5563600,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/fi"
+    "flagUrl": "https://flagpedia.net/download/fi.png"
   },
   {
     "id": "fra",
@@ -1999,7 +1999,7 @@
     "hasCommunistRulingParty": false,
     "capital": "Paris",
     "population": 68014000,
-    "flagUrl": "https://countryflagsapi.com/png/fr"
+    "flagUrl": "https://flagpedia.net/download/fr.png"
   },
   {
     "id": "guf",
@@ -2019,7 +2019,7 @@
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gf"
+    "flagUrl": "https://flagpedia.net/download/gf.png"
   },
   {
     "id": "pyf",
@@ -2039,7 +2039,7 @@
     "gdpPerCapita": 22774,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/pf"
+    "flagUrl": "https://flagpedia.net/download/pf.png"
   },
   {
     "id": "atf",
@@ -2057,7 +2057,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/tf"
+    "flagUrl": "https://flagpedia.net/download/tf.png"
   },
   {
     "id": "gab",
@@ -2080,7 +2080,7 @@
     "capital": "Libreville",
     "population": 2388992,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ga"
+    "flagUrl": "https://flagpedia.net/download/ga.png"
   },
   {
     "id": "gmb",
@@ -2103,7 +2103,7 @@
     "capital": "Banjul",
     "population": 2705992,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gm"
+    "flagUrl": "https://flagpedia.net/download/gm.png"
   },
   {
     "id": "geo",
@@ -2126,7 +2126,7 @@
     "capital": "Tbilisi",
     "population": 3708610,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ge"
+    "flagUrl": "https://flagpedia.net/download/ge.png"
   },
   {
     "id": "deu",
@@ -2168,7 +2168,7 @@
     "hasCommunistRulingParty": false,
     "capital": "Berlin",
     "population": 83369843,
-    "flagUrl": "https://countryflagsapi.com/png/de"
+    "flagUrl": "https://flagpedia.net/download/de.png"
   },
   {
     "id": "gha",
@@ -2191,7 +2191,7 @@
     "capital": "Accra",
     "population": 33475870,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gh"
+    "flagUrl": "https://flagpedia.net/download/gh.png"
   },
   {
     "id": "gib",
@@ -2211,7 +2211,7 @@
     "gdpPerCapita": 75000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gi"
+    "flagUrl": "https://flagpedia.net/download/gi.png"
   },
   {
     "id": "grc",
@@ -2234,7 +2234,7 @@
     "capital": "Athens",
     "population": 10402440,
     "stateForm": "Cộng Hòa Nghị Viện",
-    "flagUrl": "https://countryflagsapi.com/png/gr"
+    "flagUrl": "https://flagpedia.net/download/gr.png"
   },
   {
     "id": "grl",
@@ -2254,7 +2254,7 @@
     "gdpPerCapita": 58499,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gl"
+    "flagUrl": "https://flagpedia.net/download/gl.png"
   },
   {
     "id": "grd",
@@ -2277,7 +2277,7 @@
     "capital": "Saint George's",
     "population": 121008,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/gd"
+    "flagUrl": "https://flagpedia.net/download/gd.png"
   },
   {
     "id": "glp",
@@ -2297,7 +2297,7 @@
     "gdpPerCapita": 25500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gp"
+    "flagUrl": "https://flagpedia.net/download/gp.png"
   },
   {
     "id": "gum",
@@ -2317,7 +2317,7 @@
     "gdpPerCapita": 41833,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gu"
+    "flagUrl": "https://flagpedia.net/download/gu.png"
   },
   {
     "id": "gtm",
@@ -2340,7 +2340,7 @@
     "capital": "Guatemala City",
     "population": 17608483,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/gt"
+    "flagUrl": "https://flagpedia.net/download/gt.png"
   },
   {
     "id": "ggy",
@@ -2360,7 +2360,7 @@
     "gdpPerCapita": 60000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gg"
+    "flagUrl": "https://flagpedia.net/download/gg.png"
   },
   {
     "id": "gin",
@@ -2383,7 +2383,7 @@
     "capital": "Conakry",
     "population": 13886359,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gn"
+    "flagUrl": "https://flagpedia.net/download/gn.png"
   },
   {
     "id": "gnb",
@@ -2406,7 +2406,7 @@
     "capital": "Bissau",
     "population": 2105566,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gw"
+    "flagUrl": "https://flagpedia.net/download/gw.png"
   },
   {
     "id": "guy",
@@ -2429,7 +2429,7 @@
     "capital": "Georgetown",
     "population": 806953,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/gy"
+    "flagUrl": "https://flagpedia.net/download/gy.png"
   },
   {
     "id": "hti",
@@ -2452,7 +2452,7 @@
     "capital": "Port-au-Prince",
     "population": 11584996,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ht"
+    "flagUrl": "https://flagpedia.net/download/ht.png"
   },
   {
     "id": "hmd",
@@ -2470,7 +2470,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/hm"
+    "flagUrl": "https://flagpedia.net/download/hm.png"
   },
   {
     "id": "vat",
@@ -2490,7 +2490,7 @@
     "gdpPerCapita": 20000000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/va"
+    "flagUrl": "https://flagpedia.net/download/va.png"
   },
   {
     "id": "hnd",
@@ -2513,7 +2513,7 @@
     "capital": "Tegucigalpa",
     "population": 10376792,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/hn"
+    "flagUrl": "https://flagpedia.net/download/hn.png"
   },
   {
     "id": "hkg",
@@ -2533,7 +2533,7 @@
     "gdpPerCapita": 54107,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/hk"
+    "flagUrl": "https://flagpedia.net/download/hk.png"
   },
   {
     "id": "hun",
@@ -2556,7 +2556,7 @@
     "capital": "Budapest",
     "population": 9689000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/hu"
+    "flagUrl": "https://flagpedia.net/download/hu.png"
   },
   {
     "id": "isl",
@@ -2579,7 +2579,7 @@
     "capital": "Reykjavík",
     "population": 395000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/is"
+    "flagUrl": "https://flagpedia.net/download/is.png"
   },
   {
     "id": "ind",
@@ -2622,7 +2622,7 @@
     "hasCommunistRulingParty": false,
     "capital": "New Delhi",
     "population": 1428627663,
-    "flagUrl": "https://countryflagsapi.com/png/in"
+    "flagUrl": "https://flagpedia.net/download/in.png"
   },
   {
     "id": "idn",
@@ -2645,7 +2645,7 @@
     "capital": "Jakarta",
     "population": 275501339,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/id"
+    "flagUrl": "https://flagpedia.net/download/id.png"
   },
   {
     "id": "irn",
@@ -2668,7 +2668,7 @@
     "capital": "Tehran",
     "population": 90550570,
     "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagUrl": "https://countryflagsapi.com/png/ir"
+    "flagUrl": "https://flagpedia.net/download/ir.png"
   },
   {
     "id": "irq",
@@ -2691,7 +2691,7 @@
     "capital": "Baghdad",
     "population": 44496378,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/iq"
+    "flagUrl": "https://flagpedia.net/download/iq.png"
   },
   {
     "id": "irl",
@@ -2714,7 +2714,7 @@
     "capital": "Dublin",
     "population": 5261389,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ie"
+    "flagUrl": "https://flagpedia.net/download/ie.png"
   },
   {
     "id": "imn",
@@ -2734,7 +2734,7 @@
     "gdpPerCapita": 88329,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/im"
+    "flagUrl": "https://flagpedia.net/download/im.png"
   },
   {
     "id": "isr",
@@ -2757,7 +2757,7 @@
     "capital": "Jerusalem",
     "population": 9656000,
     "stateForm": "Cộng Hòa Nghị Viện",
-    "flagUrl": "https://countryflagsapi.com/png/il"
+    "flagUrl": "https://flagpedia.net/download/il.png"
   },
   {
     "id": "ita",
@@ -2780,7 +2780,7 @@
     "capital": "Rome",
     "population": 57550339,
     "stateForm": "Cộng Hòa Nghị Viện",
-    "flagUrl": "https://countryflagsapi.com/png/it"
+    "flagUrl": "https://flagpedia.net/download/it.png"
   },
   {
     "id": "civ",
@@ -2803,7 +2803,7 @@
     "capital": "Abidjan",
     "population": 28605696,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ci"
+    "flagUrl": "https://flagpedia.net/download/ci.png"
   },
   {
     "id": "jam",
@@ -2826,7 +2826,7 @@
     "capital": "Kingston",
     "population": 2825544,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/jm"
+    "flagUrl": "https://flagpedia.net/download/jm.png"
   },
   {
     "id": "jpn",
@@ -2868,7 +2868,7 @@
     "hasCommunistRulingParty": false,
     "capital": "Tokyo",
     "population": 123294513,
-    "flagUrl": "https://countryflagsapi.com/png/jp"
+    "flagUrl": "https://flagpedia.net/download/jp.png"
   },
   {
     "id": "jey",
@@ -2888,7 +2888,7 @@
     "gdpPerCapita": 76000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/je"
+    "flagUrl": "https://flagpedia.net/download/je.png"
   },
   {
     "id": "jor",
@@ -2911,7 +2911,7 @@
     "capital": "Amman",
     "population": 10203140,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/jo"
+    "flagUrl": "https://flagpedia.net/download/jo.png"
   },
   {
     "id": "kaz",
@@ -2934,7 +2934,7 @@
     "capital": "Nur-Sultan",
     "population": 20331000,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/kz"
+    "flagUrl": "https://flagpedia.net/download/kz.png"
   },
   {
     "id": "ken",
@@ -2957,7 +2957,7 @@
     "capital": "Nairobi",
     "population": 54031487,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ke"
+    "flagUrl": "https://flagpedia.net/download/ke.png"
   },
   {
     "id": "kir",
@@ -2980,7 +2980,7 @@
     "capital": "Tarawa",
     "population": 135182,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ki"
+    "flagUrl": "https://flagpedia.net/download/ki.png"
   },
   {
     "id": "xkx",
@@ -3000,7 +3000,7 @@
     "gdpPerCapita": 7299,
     "governmentSystem": "Cộng Hòa Dân Chủ Bầu Cử Đa Đảng",
     "economicModel": "Based on regime: Electoral democracy",
-    "flagUrl": "https://countryflagsapi.com/png/xk"
+    "flagUrl": "https://flagpedia.net/download/xk.png"
   },
   {
     "id": "kwt",
@@ -3023,7 +3023,7 @@
     "capital": "Kuwait City",
     "population": 4328550,
     "stateForm": "Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/kw"
+    "flagUrl": "https://flagpedia.net/download/kw.png"
   },
   {
     "id": "kgz",
@@ -3046,7 +3046,7 @@
     "capital": "Bishkek",
     "population": 6880400,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/kg"
+    "flagUrl": "https://flagpedia.net/download/kg.png"
   },
   {
     "id": "lao",
@@ -3069,7 +3069,7 @@
     "capital": "Vientiane",
     "population": 7529475,
     "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
-    "flagUrl": "https://countryflagsapi.com/png/la"
+    "flagUrl": "https://flagpedia.net/download/la.png"
   },
   {
     "id": "lva",
@@ -3092,7 +3092,7 @@
     "capital": "Riga",
     "population": 1862142,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/lv"
+    "flagUrl": "https://flagpedia.net/download/lv.png"
   },
   {
     "id": "lbn",
@@ -3115,7 +3115,7 @@
     "capital": "Beirut",
     "population": 5489000,
     "stateForm": "Cộng Hòa Đại Nghị",
-    "flagUrl": "https://countryflagsapi.com/png/lb"
+    "flagUrl": "https://flagpedia.net/download/lb.png"
   },
   {
     "id": "lso",
@@ -3138,7 +3138,7 @@
     "capital": "Maseru",
     "population": 2305825,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/ls"
+    "flagUrl": "https://flagpedia.net/download/ls.png"
   },
   {
     "id": "lbr",
@@ -3161,7 +3161,7 @@
     "capital": "Monrovia",
     "population": 5302681,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/lr"
+    "flagUrl": "https://flagpedia.net/download/lr.png"
   },
   {
     "id": "lby",
@@ -3184,7 +3184,7 @@
     "capital": "Tripoli",
     "population": 6985361,
     "stateForm": "Chính Quyền Chuyển Tiếp",
-    "flagUrl": "https://countryflagsapi.com/png/ly"
+    "flagUrl": "https://flagpedia.net/download/ly.png"
   },
   {
     "id": "lie",
@@ -3207,7 +3207,7 @@
     "capital": "Vaduz",
     "population": 39327,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/li"
+    "flagUrl": "https://flagpedia.net/download/li.png"
   },
   {
     "id": "ltu",
@@ -3230,7 +3230,7 @@
     "capital": "Vilnius",
     "population": 2801543,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/lt"
+    "flagUrl": "https://flagpedia.net/download/lt.png"
   },
   {
     "id": "lux",
@@ -3253,7 +3253,7 @@
     "capital": "Luxembourg City",
     "population": 671557,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/lu"
+    "flagUrl": "https://flagpedia.net/download/lu.png"
   },
   {
     "id": "mac",
@@ -3273,7 +3273,7 @@
     "gdpPerCapita": 73047,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/mo"
+    "flagUrl": "https://flagpedia.net/download/mo.png"
   },
   {
     "id": "mdg",
@@ -3295,7 +3295,7 @@
     "capital": "Antananarivo",
     "population": 29036900,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mg"
+    "flagUrl": "https://flagpedia.net/download/mg.png"
   },
   {
     "id": "mwi",
@@ -3317,7 +3317,7 @@
     "capital": "Lilongwe",
     "population": 20849747,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mw"
+    "flagUrl": "https://flagpedia.net/download/mw.png"
   },
   {
     "id": "mys",
@@ -3340,7 +3340,7 @@
     "capital": "Kuala Lumpur",
     "population": 34581600,
     "stateForm": "Quân Chủ Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/my"
+    "flagUrl": "https://flagpedia.net/download/my.png"
   },
   {
     "id": "mdv",
@@ -3362,7 +3362,7 @@
     "capital": "Malé",
     "population": 554994,
     "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagUrl": "https://countryflagsapi.com/png/mv"
+    "flagUrl": "https://flagpedia.net/download/mv.png"
   },
   {
     "id": "mli",
@@ -3384,7 +3384,7 @@
     "capital": "Bamako",
     "population": 24994873,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ml"
+    "flagUrl": "https://flagpedia.net/download/ml.png"
   },
   {
     "id": "mlt",
@@ -3407,7 +3407,7 @@
     "capital": "Valletta",
     "population": 543516,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mt"
+    "flagUrl": "https://flagpedia.net/download/mt.png"
   },
   {
     "id": "mhl",
@@ -3430,7 +3430,7 @@
     "capital": "Majuro",
     "population": 42050,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mh"
+    "flagUrl": "https://flagpedia.net/download/mh.png"
   },
   {
     "id": "mtq",
@@ -3450,7 +3450,7 @@
     "gdpPerCapita": 30000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/mq"
+    "flagUrl": "https://flagpedia.net/download/mq.png"
   },
   {
     "id": "mrt",
@@ -3473,7 +3473,7 @@
     "capital": "Nouakchott",
     "population": 5000000,
     "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagUrl": "https://countryflagsapi.com/png/mr"
+    "flagUrl": "https://flagpedia.net/download/mr.png"
   },
   {
     "id": "mus",
@@ -3496,7 +3496,7 @@
     "capital": "Port Louis",
     "population": 1299624,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mu"
+    "flagUrl": "https://flagpedia.net/download/mu.png"
   },
   {
     "id": "myt",
@@ -3516,7 +3516,7 @@
     "gdpPerCapita": 13000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/yt"
+    "flagUrl": "https://flagpedia.net/download/yt.png"
   },
   {
     "id": "mex",
@@ -3539,7 +3539,7 @@
     "capital": "Mexico City",
     "population": 128932753,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/mx"
+    "flagUrl": "https://flagpedia.net/download/mx.png"
   },
   {
     "id": "mda",
@@ -3562,7 +3562,7 @@
     "capital": "Chișinău",
     "population": 3645212,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/md"
+    "flagUrl": "https://flagpedia.net/download/md.png"
   },
   {
     "id": "mco",
@@ -3585,7 +3585,7 @@
     "capital": "Monaco",
     "population": 36469,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/mc"
+    "flagUrl": "https://flagpedia.net/download/mc.png"
   },
   {
     "id": "mng",
@@ -3608,7 +3608,7 @@
     "capital": "Ulaanbaatar",
     "population": 3418100,
     "stateForm": "Cộng Hòa Nghị Viện",
-    "flagUrl": "https://countryflagsapi.com/png/mn"
+    "flagUrl": "https://flagpedia.net/download/mn.png"
   },
   {
     "id": "mne",
@@ -3630,7 +3630,7 @@
     "capital": "Podgorica",
     "population": 616695,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/me"
+    "flagUrl": "https://flagpedia.net/download/me.png"
   },
   {
     "id": "msr",
@@ -3649,7 +3649,7 @@
     "gdpPerCapita": 18451,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ms"
+    "flagUrl": "https://flagpedia.net/download/ms.png"
   },
   {
     "id": "mar",
@@ -3671,7 +3671,7 @@
     "capital": "Rabat",
     "population": 37744000,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/ma"
+    "flagUrl": "https://flagpedia.net/download/ma.png"
   },
   {
     "id": "moz",
@@ -3694,7 +3694,7 @@
     "capital": "Maputo",
     "population": 35666677,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mz"
+    "flagUrl": "https://flagpedia.net/download/mz.png"
   },
   {
     "id": "mmr",
@@ -3717,7 +3717,7 @@
     "capital": "Naypyidaw",
     "population": 54409800,
     "stateForm": "Nhà Nước Chuyển Tiếp",
-    "flagUrl": "https://countryflagsapi.com/png/mm"
+    "flagUrl": "https://flagpedia.net/download/mm.png"
   },
   {
     "id": "nam",
@@ -3740,7 +3740,7 @@
     "capital": "Windhoek",
     "population": 2540905,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/na"
+    "flagUrl": "https://flagpedia.net/download/na.png"
   },
   {
     "id": "nru",
@@ -3763,7 +3763,7 @@
     "capital": "Yaren",
     "population": 10900,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/nr"
+    "flagUrl": "https://flagpedia.net/download/nr.png"
   },
   {
     "id": "npl",
@@ -3786,7 +3786,7 @@
     "capital": "Kathmandu",
     "population": 30547580,
     "stateForm": "Cộng Hòa Dân Chủ Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/np"
+    "flagUrl": "https://flagpedia.net/download/np.png"
   },
   {
     "id": "nld",
@@ -3809,7 +3809,7 @@
     "capital": "Amsterdam",
     "population": 17590672,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/nl"
+    "flagUrl": "https://flagpedia.net/download/nl.png"
   },
   {
     "id": "ncl",
@@ -3828,7 +3828,7 @@
     "gdpPerCapita": 33516,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/nc"
+    "flagUrl": "https://flagpedia.net/download/nc.png"
   },
   {
     "id": "nzl",
@@ -3851,7 +3851,7 @@
     "capital": "Wellington",
     "population": 5150000,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/nz"
+    "flagUrl": "https://flagpedia.net/download/nz.png"
   },
   {
     "id": "nic",
@@ -3873,7 +3873,7 @@
     "capital": "Managua",
     "population": 7142099,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ni"
+    "flagUrl": "https://flagpedia.net/download/ni.png"
   },
   {
     "id": "ner",
@@ -3895,7 +3895,7 @@
     "capital": "Niamey",
     "population": 28940721,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ne"
+    "flagUrl": "https://flagpedia.net/download/ne.png"
   },
   {
     "id": "nga",
@@ -3917,7 +3917,7 @@
     "capital": "Abuja",
     "population": 223804632,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ng"
+    "flagUrl": "https://flagpedia.net/download/ng.png"
   },
   {
     "id": "niu",
@@ -3937,7 +3937,7 @@
     "gdpPerCapita": 22000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/nu"
+    "flagUrl": "https://flagpedia.net/download/nu.png"
   },
   {
     "id": "nfk",
@@ -3955,7 +3955,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/nf"
+    "flagUrl": "https://flagpedia.net/download/nf.png"
   },
   {
     "id": "prk",
@@ -3978,7 +3978,7 @@
     "population": 26500000,
     "stateForm": "Cộng Hòa Dân Chủ Nhân Dân",
     "officialIdeology": "Juche",
-    "flagUrl": "https://countryflagsapi.com/png/kp"
+    "flagUrl": "https://flagpedia.net/download/kp.png"
   },
   {
     "id": "mkd",
@@ -4001,7 +4001,7 @@
     "capital": "Skopje",
     "population": 2085051,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/mk"
+    "flagUrl": "https://flagpedia.net/download/mk.png"
   },
   {
     "id": "mnp",
@@ -4021,7 +4021,7 @@
     "gdpPerCapita": 23786,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/mp"
+    "flagUrl": "https://flagpedia.net/download/mp.png"
   },
   {
     "id": "nor",
@@ -4044,7 +4044,7 @@
     "capital": "Oslo",
     "population": 5379475,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/no"
+    "flagUrl": "https://flagpedia.net/download/no.png"
   },
   {
     "id": "omn",
@@ -4067,7 +4067,7 @@
     "capital": "Muscat",
     "population": 4975992,
     "stateForm": "Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/om"
+    "flagUrl": "https://flagpedia.net/download/om.png"
   },
   {
     "id": "pak",
@@ -4089,7 +4089,7 @@
     "capital": "Islamabad",
     "population": 240485658,
     "stateForm": "Cộng Hòa Hồi Giáo",
-    "flagUrl": "https://countryflagsapi.com/png/pk"
+    "flagUrl": "https://flagpedia.net/download/pk.png"
   },
   {
     "id": "plw",
@@ -4112,7 +4112,7 @@
     "capital": "Ngerulmud",
     "population": 18024,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/pw"
+    "flagUrl": "https://flagpedia.net/download/pw.png"
   },
   {
     "id": "pse",
@@ -4130,7 +4130,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ps"
+    "flagUrl": "https://flagpedia.net/download/ps.png"
   },
   {
     "id": "pan",
@@ -4153,7 +4153,7 @@
     "capital": "Panama City",
     "population": 4480000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/pa"
+    "flagUrl": "https://flagpedia.net/download/pa.png"
   },
   {
     "id": "png",
@@ -4175,7 +4175,7 @@
     "capital": "Port Moresby",
     "population": 10142619,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/pg"
+    "flagUrl": "https://flagpedia.net/download/pg.png"
   },
   {
     "id": "pry",
@@ -4198,7 +4198,7 @@
     "capital": "Asunción",
     "population": 6920667,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/py"
+    "flagUrl": "https://flagpedia.net/download/py.png"
   },
   {
     "id": "per",
@@ -4221,7 +4221,7 @@
     "capital": "Lima",
     "population": 35290000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/pe"
+    "flagUrl": "https://flagpedia.net/download/pe.png"
   },
   {
     "id": "phl",
@@ -4243,7 +4243,7 @@
     "capital": "Manila",
     "population": 120493701,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/ph"
+    "flagUrl": "https://flagpedia.net/download/ph.png"
   },
   {
     "id": "pcn",
@@ -4261,7 +4261,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/pn"
+    "flagUrl": "https://flagpedia.net/download/pn.png"
   },
   {
     "id": "pol",
@@ -4284,7 +4284,7 @@
     "capital": "Warsaw",
     "population": 37664000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/pl"
+    "flagUrl": "https://flagpedia.net/download/pl.png"
   },
   {
     "id": "prt",
@@ -4307,7 +4307,7 @@
     "capital": "Lisbon",
     "population": 10642836,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/pt"
+    "flagUrl": "https://flagpedia.net/download/pt.png"
   },
   {
     "id": "pri",
@@ -4327,7 +4327,7 @@
     "gdpPerCapita": 39285,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/pr"
+    "flagUrl": "https://flagpedia.net/download/pr.png"
   },
   {
     "id": "qat",
@@ -4350,7 +4350,7 @@
     "capital": "Doha",
     "population": 3103500,
     "stateForm": "Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/qa"
+    "flagUrl": "https://flagpedia.net/download/qa.png"
   },
   {
     "id": "cog",
@@ -4371,7 +4371,7 @@
     "capital": "Brazzaville",
     "population": 6108869,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/cg"
+    "flagUrl": "https://flagpedia.net/download/cg.png"
   },
   {
     "id": "rou",
@@ -4394,7 +4394,7 @@
     "capital": "Bucharest",
     "population": 19120825,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ro"
+    "flagUrl": "https://flagpedia.net/download/ro.png"
   },
   {
     "id": "rwa",
@@ -4416,7 +4416,7 @@
     "capital": "Kigali",
     "population": 14600000,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/rw"
+    "flagUrl": "https://flagpedia.net/download/rw.png"
   },
   {
     "id": "reu",
@@ -4434,7 +4434,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/re"
+    "flagUrl": "https://flagpedia.net/download/re.png"
   },
   {
     "id": "blm",
@@ -4452,7 +4452,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/bl"
+    "flagUrl": "https://flagpedia.net/download/bl.png"
   },
   {
     "id": "shn",
@@ -4470,7 +4470,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/sh"
+    "flagUrl": "https://flagpedia.net/download/sh.png"
   },
   {
     "id": "kna",
@@ -4493,7 +4493,7 @@
     "capital": "Basseterre",
     "population": 46583,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/kn"
+    "flagUrl": "https://flagpedia.net/download/kn.png"
   },
   {
     "id": "lca",
@@ -4516,7 +4516,7 @@
     "capital": "Castries",
     "population": 181889,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/lc"
+    "flagUrl": "https://flagpedia.net/download/lc.png"
   },
   {
     "id": "maf",
@@ -4535,7 +4535,7 @@
     "gdpPerCapita": 21668,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/mf"
+    "flagUrl": "https://flagpedia.net/download/mf.png"
   },
   {
     "id": "spm",
@@ -4555,7 +4555,7 @@
     "gdpPerCapita": 10000,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/pm"
+    "flagUrl": "https://flagpedia.net/download/pm.png"
   },
   {
     "id": "vct",
@@ -4578,7 +4578,7 @@
     "capital": "Kingstown",
     "population": 100982,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/vc"
+    "flagUrl": "https://flagpedia.net/download/vc.png"
   },
   {
     "id": "wsm",
@@ -4601,7 +4601,7 @@
     "capital": "Apia",
     "population": 198670,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ws"
+    "flagUrl": "https://flagpedia.net/download/ws.png"
   },
   {
     "id": "smr",
@@ -4624,7 +4624,7 @@
     "capital": "City of San Marino",
     "population": 34660,
     "stateForm": "Cộng Hòa Đặc Lập",
-    "flagUrl": "https://countryflagsapi.com/png/sm"
+    "flagUrl": "https://flagpedia.net/download/sm.png"
   },
   {
     "id": "stp",
@@ -4647,7 +4647,7 @@
     "capital": "São Tomé",
     "population": 230000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/st"
+    "flagUrl": "https://flagpedia.net/download/st.png"
   },
   {
     "id": "sau",
@@ -4670,7 +4670,7 @@
     "capital": "Riyadh",
     "population": 37200000,
     "stateForm": "Quân Chủ Tuyệt Đối",
-    "flagUrl": "https://countryflagsapi.com/png/sa"
+    "flagUrl": "https://flagpedia.net/download/sa.png"
   },
   {
     "id": "sen",
@@ -4693,7 +4693,7 @@
     "capital": "Dakar",
     "population": 17589198,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sn"
+    "flagUrl": "https://flagpedia.net/download/sn.png"
   },
   {
     "id": "srb",
@@ -4716,7 +4716,7 @@
     "capital": "Belgrade",
     "population": 6644449,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/rs"
+    "flagUrl": "https://flagpedia.net/download/rs.png"
   },
   {
     "id": "syc",
@@ -4738,7 +4738,7 @@
     "capital": "Victoria",
     "population": 100388,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sc"
+    "flagUrl": "https://flagpedia.net/download/sc.png"
   },
   {
     "id": "sle",
@@ -4761,7 +4761,7 @@
     "capital": "Freetown",
     "population": 8605718,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sl"
+    "flagUrl": "https://flagpedia.net/download/sl.png"
   },
   {
     "id": "sgp",
@@ -4784,7 +4784,7 @@
     "capital": "Singapore",
     "population": 5917600,
     "stateForm": "Cộng Hòa Nhị Nguyên",
-    "flagUrl": "https://countryflagsapi.com/png/sg"
+    "flagUrl": "https://flagpedia.net/download/sg.png"
   },
   {
     "id": "sxm",
@@ -4803,7 +4803,7 @@
     "gdpPerCapita": 40028,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/sx"
+    "flagUrl": "https://flagpedia.net/download/sx.png"
   },
   {
     "id": "svk",
@@ -4826,7 +4826,7 @@
     "capital": "Bratislava",
     "population": 5458827,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sk"
+    "flagUrl": "https://flagpedia.net/download/sk.png"
   },
   {
     "id": "svn",
@@ -4849,7 +4849,7 @@
     "capital": "Ljubljana",
     "population": 2108000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/si"
+    "flagUrl": "https://flagpedia.net/download/si.png"
   },
   {
     "id": "slb",
@@ -4872,7 +4872,7 @@
     "capital": "Honiara",
     "population": 703996,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/sb"
+    "flagUrl": "https://flagpedia.net/download/sb.png"
   },
   {
     "id": "som",
@@ -4895,7 +4895,7 @@
     "capital": "Mogadishu",
     "population": 17065000,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/so"
+    "flagUrl": "https://flagpedia.net/download/so.png"
   },
   {
     "id": "zaf",
@@ -4918,7 +4918,7 @@
     "capital": "Pretoria",
     "population": 60142978,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/za"
+    "flagUrl": "https://flagpedia.net/download/za.png"
   },
   {
     "id": "sgs",
@@ -4936,7 +4936,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/gs"
+    "flagUrl": "https://flagpedia.net/download/gs.png"
   },
   {
     "id": "kor",
@@ -4959,7 +4959,7 @@
     "capital": "Seoul",
     "population": 51316195,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/kr"
+    "flagUrl": "https://flagpedia.net/download/kr.png"
   },
   {
     "id": "ssd",
@@ -4982,7 +4982,7 @@
     "capital": "Juba",
     "population": 11381378,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ss"
+    "flagUrl": "https://flagpedia.net/download/ss.png"
   },
   {
     "id": "esp",
@@ -5005,7 +5005,7 @@
     "capital": "Madrid",
     "population": 47615034,
     "stateForm": "Quân Chủ Lập Hiến",
-    "flagUrl": "https://countryflagsapi.com/png/es"
+    "flagUrl": "https://flagpedia.net/download/es.png"
   },
   {
     "id": "lka",
@@ -5028,7 +5028,7 @@
     "capital": "Colombo",
     "population": 21893579,
     "stateForm": "Cộng Hòa Dân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/lk"
+    "flagUrl": "https://flagpedia.net/download/lk.png"
   },
   {
     "id": "sdn",
@@ -5051,7 +5051,7 @@
     "capital": "Khartoum",
     "population": 44909353,
     "stateForm": "Cộng Hòa Chuyển Tiếp",
-    "flagUrl": "https://countryflagsapi.com/png/sd"
+    "flagUrl": "https://flagpedia.net/download/sd.png"
   },
   {
     "id": "sur",
@@ -5074,7 +5074,7 @@
     "capital": "Paramaribo",
     "population": 612781,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/sr"
+    "flagUrl": "https://flagpedia.net/download/sr.png"
   },
   {
     "id": "sjm",
@@ -5092,7 +5092,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/sj"
+    "flagUrl": "https://flagpedia.net/download/sj.png"
   },
   {
     "id": "che",
@@ -5115,7 +5115,7 @@
     "capital": "Bern",
     "population": 8776000,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ch"
+    "flagUrl": "https://flagpedia.net/download/ch.png"
   },
   {
     "id": "syr",
@@ -5137,7 +5137,7 @@
     "capital": "Damascus",
     "population": 24504000,
     "stateForm": "Cộng Hòa Ả Rập",
-    "flagUrl": "https://countryflagsapi.com/png/sy"
+    "flagUrl": "https://flagpedia.net/download/sy.png"
   },
   {
     "id": "twn",
@@ -5160,7 +5160,7 @@
     "capital": "Taipei",
     "population": 23968105,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tw"
+    "flagUrl": "https://flagpedia.net/download/tw.png"
   },
   {
     "id": "tjk",
@@ -5183,7 +5183,7 @@
     "capital": "Dushanbe",
     "population": 9952000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tj"
+    "flagUrl": "https://flagpedia.net/download/tj.png"
   },
   {
     "id": "tza",
@@ -5205,7 +5205,7 @@
     "capital": "Dodoma",
     "population": 61498437,
     "stateForm": "Cộng Hòa Liên Hợp",
-    "flagUrl": "https://countryflagsapi.com/png/tz"
+    "flagUrl": "https://flagpedia.net/download/tz.png"
   },
   {
     "id": "tha",
@@ -5228,7 +5228,7 @@
     "capital": "Bangkok",
     "population": 73183122,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/th"
+    "flagUrl": "https://flagpedia.net/download/th.png"
   },
   {
     "id": "tls",
@@ -5251,7 +5251,7 @@
     "capital": "Dili",
     "population": 1318445,
     "stateForm": "Cộng Hòa Dân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/tl"
+    "flagUrl": "https://flagpedia.net/download/tl.png"
   },
   {
     "id": "tgo",
@@ -5274,7 +5274,7 @@
     "capital": "Lomé",
     "population": 9053000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tg"
+    "flagUrl": "https://flagpedia.net/download/tg.png"
   },
   {
     "id": "tkl",
@@ -5292,7 +5292,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/tk"
+    "flagUrl": "https://flagpedia.net/download/tk.png"
   },
   {
     "id": "ton",
@@ -5315,7 +5315,7 @@
     "capital": "Nuku'alofa",
     "population": 100651,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/to"
+    "flagUrl": "https://flagpedia.net/download/to.png"
   },
   {
     "id": "tto",
@@ -5338,7 +5338,7 @@
     "capital": "Port of Spain",
     "population": 1525663,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tt"
+    "flagUrl": "https://flagpedia.net/download/tt.png"
   },
   {
     "id": "tun",
@@ -5361,7 +5361,7 @@
     "capital": "Tunis",
     "population": 12676775,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tn"
+    "flagUrl": "https://flagpedia.net/download/tn.png"
   },
   {
     "id": "tur",
@@ -5384,7 +5384,7 @@
     "capital": "Ankara",
     "population": 85326000,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/tr"
+    "flagUrl": "https://flagpedia.net/download/tr.png"
   },
   {
     "id": "tkm",
@@ -5407,7 +5407,7 @@
     "capital": "Ashgabat",
     "population": 6361000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/tm"
+    "flagUrl": "https://flagpedia.net/download/tm.png"
   },
   {
     "id": "tca",
@@ -5427,7 +5427,7 @@
     "gdpPerCapita": 30349,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/tc"
+    "flagUrl": "https://flagpedia.net/download/tc.png"
   },
   {
     "id": "tuv",
@@ -5450,7 +5450,7 @@
     "capital": "Funafuti",
     "population": 12373,
     "stateForm": "Quân Chủ",
-    "flagUrl": "https://countryflagsapi.com/png/tv"
+    "flagUrl": "https://flagpedia.net/download/tv.png"
   },
   {
     "id": "vir",
@@ -5469,7 +5469,7 @@
     "gdpPerCapita": 44321,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/vi"
+    "flagUrl": "https://flagpedia.net/download/vi.png"
   },
   {
     "id": "uga",
@@ -5492,7 +5492,7 @@
     "capital": "Kampala",
     "population": 48855393,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ug"
+    "flagUrl": "https://flagpedia.net/download/ug.png"
   },
   {
     "id": "ukr",
@@ -5515,7 +5515,7 @@
     "capital": "Kyiv",
     "population": 38000000,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ua"
+    "flagUrl": "https://flagpedia.net/download/ua.png"
   },
   {
     "id": "are",
@@ -5538,7 +5538,7 @@
     "capital": "Abu Dhabi",
     "population": 9890400,
     "stateForm": "Liên Minh Tiểu Vương Quốc",
-    "flagUrl": "https://countryflagsapi.com/png/ae"
+    "flagUrl": "https://flagpedia.net/download/ae.png"
   },
   {
     "id": "umi",
@@ -5556,7 +5556,7 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/um"
+    "flagUrl": "https://flagpedia.net/download/um.png"
   },
   {
     "id": "ury",
@@ -5579,7 +5579,7 @@
     "capital": "Montevideo",
     "population": 3357620,
     "stateForm": "Cộng Hòa Tổng Thống",
-    "flagUrl": "https://countryflagsapi.com/png/uy"
+    "flagUrl": "https://flagpedia.net/download/uy.png"
   },
   {
     "id": "uzb",
@@ -5602,7 +5602,7 @@
     "capital": "Tashkent",
     "population": 34232100,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/uz"
+    "flagUrl": "https://flagpedia.net/download/uz.png"
   },
   {
     "id": "vut",
@@ -5625,7 +5625,7 @@
     "capital": "Port Vila",
     "population": 321099,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/vu"
+    "flagUrl": "https://flagpedia.net/download/vu.png"
   },
   {
     "id": "ven",
@@ -5647,7 +5647,7 @@
     "capital": "Caracas",
     "population": 28301696,
     "stateForm": "Cộng Hòa Liên Bang",
-    "flagUrl": "https://countryflagsapi.com/png/ve"
+    "flagUrl": "https://flagpedia.net/download/ve.png"
   },
   {
     "id": "wlf",
@@ -5667,7 +5667,7 @@
     "gdpPerCapita": 9500,
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/wf"
+    "flagUrl": "https://flagpedia.net/download/wf.png"
   },
   {
     "id": "esh",
@@ -5687,7 +5687,7 @@
     "gdpPerCapita": 500,
     "governmentSystem": "Lãnh Thổ Phụ Thuộc/Tự Trị; Chính Quyền Địa Phương theo Quốc Gia Chủ Quản",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/eh"
+    "flagUrl": "https://flagpedia.net/download/eh.png"
   },
   {
     "id": "yem",
@@ -5710,7 +5710,7 @@
     "capital": "Sana'a",
     "population": 36408629,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/ye"
+    "flagUrl": "https://flagpedia.net/download/ye.png"
   },
   {
     "id": "zmb",
@@ -5733,7 +5733,7 @@
     "capital": "Lusaka",
     "population": 19473125,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/zm"
+    "flagUrl": "https://flagpedia.net/download/zm.png"
   },
   {
     "id": "zwe",
@@ -5756,7 +5756,7 @@
     "capital": "Harare",
     "population": 16665409,
     "stateForm": "Cộng Hòa",
-    "flagUrl": "https://countryflagsapi.com/png/zw"
+    "flagUrl": "https://flagpedia.net/download/zw.png"
   },
   {
     "id": "ala",
@@ -5774,6 +5774,6 @@
     "confidenceLevel": "low",
     "governmentSystem": "Chưa Xác Định / Cần Đối Chiếu Nguồn Chính Thức",
     "economicModel": "Based on regime: Unknown",
-    "flagUrl": "https://countryflagsapi.com/png/ax"
+    "flagUrl": "https://flagpedia.net/download/ax.png"
   }
 ]
