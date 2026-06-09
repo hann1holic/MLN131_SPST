@@ -100,6 +100,7 @@ export type CountryPoliticalProfile = {
   nativeName?: string;
   englishName: string;
   flagEmoji: string;
+  flagUrl?: string;
   flagSvgUrl?: string;
 
   region: Region;
